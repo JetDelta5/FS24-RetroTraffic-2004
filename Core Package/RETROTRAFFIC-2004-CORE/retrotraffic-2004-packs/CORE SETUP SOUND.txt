@@ -1,0 +1,15 @@
+RETROTRAFFIC 2004 PROJECT CORE FILES
+
+RETROTRAFFIC CORE FILE INSTALLATION REQUIRES SOUND PACK SETUP IN retrotraffic-2004-packs FOLDER
+
+SOUND PACK OBTAINED FROM AI TRAFFIC SOUND PACK v1.8
+on AVSIM Library 
+Category: Flight Simulator X - Sounds
+Ai Traffic Sound Pack v1.8
+Filename: Ai_Traffic_Sound_Pack_v18.zip
+Author:	Kairi Akai
+
+SOURCE FOLDER PATH: Ai_Traffic_Sound_Pack_v18.zip/AITRSP_v1.8/Sound Files
+DRAG AND DROP Sound INTO retrotraffic-2004-packs
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
