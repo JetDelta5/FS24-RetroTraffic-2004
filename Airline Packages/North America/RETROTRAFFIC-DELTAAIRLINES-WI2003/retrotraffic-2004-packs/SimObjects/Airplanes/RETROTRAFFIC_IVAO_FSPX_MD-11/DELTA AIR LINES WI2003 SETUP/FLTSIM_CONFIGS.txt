@@ -1,0 +1,63 @@
+WINTER 2003 DELTA AIR LINES RETROTRAFFIC MD-11
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Delta Air Lines RetroTraffic for the MD-11
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Delta Air Lines Colors In Motion McDonnell Douglas MD-11"
+model="pw"
+texture="DAL-DeltaAirLines-Colors"
+description="RETROTRAFFIC FSPX MD-11"
+ui_manufacturer="McDonnell Douglas"
+ui_type ="MD-11"
+ui_variation="Delta Air Lines Colors In Motion MD-11"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSPXAI"
+atc_airline="DELTA"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC Delta Air Lines Ron Allen McDonnell Douglas MD-11"
+model="pw"
+texture="DAL-DeltaAirLines-RonAllen"
+description="RETROTRAFFIC FSPX MD-11"
+ui_manufacturer="McDonnell Douglas"
+ui_type ="MD-11"
+ui_variation="Delta Air Lines Ron Allen MD-11"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSPXAI"
+atc_airline="DELTA"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+2]
+title="RETROTRAFFIC Delta Air Lines Widget McDonnell Douglas MD-11"
+model="pw"
+texture="DAL-DeltaAirLines-Widget"
+description="RETROTRAFFIC FSPX MD-11"
+ui_manufacturer="McDonnell Douglas"
+ui_type ="MD-11"
+ui_variation="Delta Air Lines Widget MD-11"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSPXAI"
+atc_airline="DELTA"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
+

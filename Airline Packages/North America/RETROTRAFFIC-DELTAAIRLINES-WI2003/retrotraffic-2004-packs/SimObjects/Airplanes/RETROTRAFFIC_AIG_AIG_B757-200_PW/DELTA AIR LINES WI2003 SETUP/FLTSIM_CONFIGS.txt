@@ -1,0 +1,114 @@
+WINTER 2003 DELTA AIR LINES RETROTRAFFIC B752
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Delta Air Lines RetroTraffic for the B752
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Delta Air Lines Colors In Motion Boeing 757-200 PW"
+model="PW"
+texture="DAL-DeltaAirLines-Colors"
+description="RETROTRAFFIC FAIB 757-200"
+ui_manufacturer="Boeing"
+ui_type ="757-200"
+ui_variation="Delta Air Lines Colors In Motion B752 PW"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="DELTA"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC Delta Air Lines Olympics 2002 Boeing 757-200 PW"
+model="PW"
+texture="DAL-DeltaAirLines-Olympics"
+description="RETROTRAFFIC FAIB 757-200"
+ui_manufacturer="Boeing"
+ui_type ="757-200"
+ui_variation="Delta Air Lines Olympics B752 PW"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="DELTA"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+2]
+title="RETROTRAFFIC Delta Air Lines Ron Allen Boeing 757-200 PW"
+model="PW"
+texture="DAL-DeltaAirLines-RonAllen"
+description="RETROTRAFFIC FAIB 757-200"
+ui_manufacturer="Boeing"
+ui_type ="757-200"
+ui_variation="Delta Air Lines Ron Allen B752 PW"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="DELTA"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+3]
+title="RETROTRAFFIC Delta Air Lines Widget Boeing 757-200 PW"
+model="PW"
+texture="DAL-DeltaAirLines-Widget"
+description="RETROTRAFFIC FAIB 757-200"
+ui_manufacturer="Boeing"
+ui_type ="757-200"
+ui_variation="Delta Air Lines Widget B752 PW"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="DELTA"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+4]
+title="RETROTRAFFIC Delta Song Green Titles Boeing 757-200 PW"
+model="PW"
+texture="DAL-DeltaSong-Green"
+description="RETROTRAFFIC FAIB 757-200"
+ui_manufacturer="Boeing"
+ui_type ="757-200"
+ui_variation="Delta Song Green Titles B752 PW"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="DELTA"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+5]
+title="RETROTRAFFIC Delta Song White Titles Boeing 757-200 PW"
+model="PW"
+texture="DAL-DeltaSong-White"
+description="RETROTRAFFIC FAIB 757-200"
+ui_manufacturer="Boeing"
+ui_type ="757-200"
+ui_variation="Delta Song White Titles B752 PW"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="DELTA"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
+
+
+
+

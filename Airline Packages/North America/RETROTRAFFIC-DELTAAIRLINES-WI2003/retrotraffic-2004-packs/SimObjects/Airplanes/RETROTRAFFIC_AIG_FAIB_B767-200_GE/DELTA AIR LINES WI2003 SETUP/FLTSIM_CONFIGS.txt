@@ -1,0 +1,81 @@
+WINTER 2003 DELTA AIR LINES RETROTRAFFIC B762
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Delta Air Lines RetroTraffic for the B762
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Delta Air Lines Colors In Motion Boeing 767-200 GE"
+model="GEA"
+texture="DAL-DeltaAirLines-Colors"
+description="RETROTRAFFIC FAIB 767-200"
+ui_manufacturer="Boeing"
+ui_type ="767-200"
+ui_variation="Delta Air Lines Colors In Motion B762 GE"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="DELTA"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC Delta Air Lines Ron Allen Boeing 767-200 GE"
+model="GEA"
+texture="DAL-DeltaAirLines-RonAllen"
+description="RETROTRAFFIC FAIB 767-200"
+ui_manufacturer="Boeing"
+ui_type ="767-200"
+ui_variation="Delta Air Lines Ron Allen B762 GE"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="DELTA"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+2]
+title="RETROTRAFFIC Delta Air Lines Spirit Of Delta Boeing 767-200 GE"
+model="GEA"
+texture="DAL-DeltaAirLines-Spirit"
+description="RETROTRAFFIC FAIB 767-200"
+ui_manufacturer="Boeing"
+ui_type ="767-200"
+ui_variation="Delta Air Lines Spirit Of Delta B762 GE"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="DELTA"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+3]
+title="RETROTRAFFIC Delta Air Lines Widget Boeing 767-200 GE"
+model="GEA"
+texture="DAL-DeltaAirLines-Widget"
+description="RETROTRAFFIC FAIB 767-200"
+ui_manufacturer="Boeing"
+ui_type ="767-200"
+ui_variation="Delta Air Lines Widget B762 GE"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="DELTA"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
+

@@ -1,0 +1,104 @@
+WINTER 2003 DELTA AIR LINES RETROTRAFFIC B763
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Delta Air Lines RetroTraffic for the B763
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Delta Air Lines Colors In Motion Boeing 767-300ER GEC"
+model="GEC"
+texture="DAL-DeltaAirLines-Colors"
+description="RETROTRAFFIC FAIB 767-300ER"
+ui_manufacturer="Boeing"
+ui_type ="767-300ER"
+ui_variation="Delta Air Lines Colors In Motion B763ER GEC"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="DELTA"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC Delta Air Lines Ron Allen Boeing 767-300ER GEC"
+model="GEC"
+texture="DAL-DeltaAirLines-RonAllen"
+description="RETROTRAFFIC FAIB 767-300ER"
+ui_manufacturer="Boeing"
+ui_type ="767-300ER"
+ui_variation="Delta Air Lines Ron Allen B763ER GEC"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="DELTA"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
+
+
+=========================================================================================
+RECOMMENDED SUBSTITUTES BELOW 
+RETROTRAFFIC_AIG_FAIB_B767-300_GEA FOR RETROTRAFFIC_AIG_FAIB_B767-300ER_GEC (no model)
+
+[fltsim.X+2]
+title="RETROTRAFFIC Delta Air Lines Colors In Motion Boeing 767-300ER GEA"
+model="GEC"
+texture="DAL-DeltaAirLines-Colors"
+description="RETROTRAFFIC FAIB 767-300 SUBSTITUTE"
+ui_manufacturer="Boeing"
+ui_type ="767-300"
+ui_variation="Delta Air Lines Colors In Motion B763 GEA SUBSTITUTE"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="DELTA"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+3]
+title="RETROTRAFFIC Delta Air Lines Ron Allen Boeing 767-300 GEA"
+model="GEC"
+texture="DAL-DeltaAirLines-RonAllen"
+description="RETROTRAFFIC FAIB 767-300 SUBSTITUTE"
+ui_manufacturer="Boeing"
+ui_type ="767-300"
+ui_variation="Delta Air Lines Ron Allen B763 GEA SUBSTITUTE"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="DELTA"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+4]
+title="RETROTRAFFIC Delta Air Lines Widget Boeing 767-300 GEA"
+model="GEC"
+texture="DAL-DeltaAirLines-RonAllen"
+description="RETROTRAFFIC FAIB 767-300 SUBSTITUTE"
+ui_manufacturer="Boeing"
+ui_type ="767-300"
+ui_variation="Delta Air Lines Widget B763 GEA SUBSTITUTE"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="DELTA"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
+

@@ -1,0 +1,42 @@
+WINTER 2003 DELTA AIR LINES RETROTRAFFIC MD-90
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Delta Air Lines RetroTraffic for the MD-90
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Delta Air Lines Colors In Motion McDonnell Douglas MD-90"
+model=""
+texture="DAL-DeltaAirLines-Colors"
+description="RETROTRAFFIC AIA MD-90"
+ui_manufacturer="McDonnell Douglas"
+ui_type ="MD-90"
+ui_variation="Delta Air Lines Colors In Motion MD-90"
+ui_typerole="Commercial Airliner"
+ui_createdby="AI Aardvark"
+atc_airline="DELTA"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC Delta Air Lines Widget McDonnell Douglas MD-90"
+model=""
+texture="DAL-DeltaAirLines-Widget"
+description="RETROTRAFFIC AIA MD-90"
+ui_manufacturer="McDonnell Douglas"
+ui_type ="MD-90"
+ui_variation="Delta Air Lines Widget MD-90"
+ui_typerole="Commercial Airliner"
+ui_createdby="AI Aardvark"
+atc_airline="DELTA"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DAL"
+icao_airline="DAL"
+isAirTraffic=1
+isUserSelectable=0
