@@ -44,7 +44,7 @@ isUserSelectable=0
 [fltsim.X+2]
 title="RETROTRAFFIC Delta Shuttle Colors In Motion Boeing 737-800"
 model=""
-texture="DAL-DeltaAirLines-RonAllen"
+texture="DAL-DeltaShuttle-Colors"
 description="RETROTRAFFIC FAIB 737-800"
 ui_manufacturer="Boeing"
 ui_type ="737-800"
