@@ -2,17 +2,12 @@ WINTER 2003 DELTA AIR LINES PACKAGE FOR RETROTRAFFIC 2004 PROJECT
 
 Portal to the Past
 
-The RetroTraffic 2004 Project is a curated collection of configuration files and folders to provide an accessible installation method for integrating historic airline operations around the year 2004 into the modern Microsoft Flight Simulator and Microsoft Flight Simulator 2024. The RetroTraffic project provides guidance to obtain models and textures of historic aircraft and airlines from past and present community work. RetroTraffic requires an external program to inject traffic from the available historic schedules, where FSHud operating in BGL mode is currently recommended.
+The RetroTraffic Project is a curated collection of configuration files and folders to provide an accessible installation method for integrating historic airline operations and liveries into the modern Microsoft Flight Simulator and Microsoft Flight Simulator 2024. The RetroTraffic project provides guidance to obtain models and textures of historic aircraft and airlines from past and present community work, and configure them to function off an accurate and era appropriate airline schedule traffic file. RetroTraffic requires an external program to process the data and inject traffic from the schedule file. The RetroTraffic Project package files are hosted on GitHub, and contain the relevant eras folder layouts for core setup and individual airlines appropriate schedules. The airline schedules available in the RetroTraffic Project may not directly match the specified year, and are chosen by schedule compatibility, fleet variety, and data availability. The RetroTraffic Project is created with a passion for historical accuracy and a nostalgia for the historic airline world. Feel free to contact the RetroTraffic Project lead developer using the available contact info if there are any issues installing or using this package. Enjoy experiencing a populated historic airline world.
 
-To begin setting up, complete installation of the RetroTraffic 2004 Core files, and copy retrotraffic-2004-ai and retrotraffic-2004-packs into community folder.
-Installation is not a simple process. You must read through the various setup instructions and livery sources to properly configure the traffic packages. Read and follow each step carefully, expect to make multiple modifications and create accounts to obtain files from legacy sites like the AVSIM Library. Many liveries will feature legacy bitmap (bmp) texture files. Use the FSX DXTBmp tool to convert bmp textures to DDS textures, and ensure the orientations match as directed. Don't forget the lightmap textures when applicable!
-The RetroTraffic Project Installation Guide will be your best friend through the process, containing info on FSHud setup, model acquisition and installation, texture acquisition and installation, and important caveats posed by outdated files.
-When you have finished setting up your traffic files, drag and drop the layout.json in retrotraffic-2004-ai and retrotraffic-2004-packs into the provided MSFSlayoutgenerator.exe, setup FSHud, and enjoy the historic airline traffic for modern flightsim.
-
-FOLLOW RETROTRAFFIC GUIDE PDF FOR FURTHER INSTALLATION INFO
+Setting up and installing airline packages is not a simple process. You must read through the various instruction and setup text files located throughout the various folders, each needing their own careful process and attention. Expect to make multiple modifications with various tools, create accounts to obtain textures from online file libraries like AVSIM, and clear enough storage to be able to download and convert the necessary source files. Please make sure to follow the RetroTraffic Project Installation Guide to make setup as painless as possible.
 
 RETROTRAFFIC PROJECT INSTALLATION GUIDE LINK:
-
+https://drive.google.com/file/d/1JI3O0BNT1N3O1v6Zr5B3GFMbL3vIWfwA
 
 FSHUD AVAILABLE AT https://www.fshud.com/
 
@@ -28,6 +23,17 @@ IVAO MTL SOURCE FOLDER: Community/IVAO_MTL
 
 RETROTRAFFIC CUSTOM LIVERY ARCHIVE GOOGLE DRIVE LINK:
 https://drive.google.com/drive/folders/1oTmnnSvu8KHSbTgYUrT2m_Omdmsjd7O2?usp=sharing
+
+===================================================================================================
+AIRLINE NOTES
+Winter 2003 was selected for the additional fleet variety of the McDonnell Douglas MD-11, Delta Express Operations, and less Colors In Motion repaints.
+
+In Winter 2003:
+Delta Air Lines fleet is a blend of old and new liveries, with aircraft being continually upgraded to the Colors In Motion livery.
+The McDonnell Douglas MD-11 is on it's last legs, due for retirement next year
+Delta Express will soon cease operations, but continues to serve the Atlanta Hub
+Delta Shuttle is transitioning from Boeing 737-300s to Boeing 737-800s
+Delta Song is experiencing tremendous growth
 
 ===================================================================================================
 PACKAGE FEATURES MIX OF HD FSX/P3D ERA AND SD FS9 ERA TEXTURES. HD TEXTURE CONTRIBUTIONS WELCOME.
