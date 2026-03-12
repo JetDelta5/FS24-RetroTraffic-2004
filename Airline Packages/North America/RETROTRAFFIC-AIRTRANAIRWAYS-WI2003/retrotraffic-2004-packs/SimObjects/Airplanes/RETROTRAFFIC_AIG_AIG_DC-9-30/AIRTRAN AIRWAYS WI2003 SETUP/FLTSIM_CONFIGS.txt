@@ -1,0 +1,25 @@
+WINTER 2003 AIRTRAN AIRWAYS RETROTRAFFIC DC93
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 AirTran Airways RetroTraffic for the DC93
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC AirTran Airways Douglas DC-9-30"
+model=""
+texture="TRS-AirTranAirways"
+description="RETROTRAFFIC AIG DC-9-30"
+ui_manufacturer="Douglas"
+ui_type ="DC-9-30"
+ui_variation="AirTran Airways DC93"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="CITRUS"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="TRS"
+icao_airline="TRS"
+isAirTraffic=1
+isUserSelectable=0

@@ -1,0 +1,25 @@
+WINTER 2003 AIRTRAN JetConnect RETROTRAFFIC CRJ2
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 AirTran JetConnect RetroTraffic for the CRJ2
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC AirTran JetConnect opb Air Wisconsin Bombardier CRJ-200"
+model="200"
+texture="TRSX-AirTranJetConnect-AWI"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="AirTran JetConnect Air Wisconsin CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="WISCONSIN"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="TRSX,AWI"
+icao_airline="AWI"
+isAirTraffic=1
+isUserSelectable=0
