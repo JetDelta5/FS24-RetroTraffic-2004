@@ -1,0 +1,45 @@
+SUMMER 2004 UNITED AIRLINES RETROTRAFFIC B763
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Summer 2004 United Airlines RetroTraffic for the B763
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC United Airlines Boeing 767-300 PW"
+model="PW"
+texture="UAL-UnitedAirlines"
+description="RETROTRAFFIC FAIB 767-300ER"
+ui_manufacturer="Boeing"
+ui_type ="767-300ER"
+ui_variation="United Airlines B763ER PW"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="UNITED"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UAL"
+icao_airline="UAL"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC United Airlines Star Alliance Boeing 767-300 PW"
+model="PW"
+texture="UAL-UnitedAirlines-Star"
+description="RETROTRAFFIC FAIB 767-300ER"
+ui_manufacturer="Boeing"
+ui_type ="767-300ER"
+ui_variation="United Airlines Star Alliance B763ER PW"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="UNITED"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UAL"
+icao_airline="UAL"
+isAirTraffic=1
+isUserSelectable=0
+
