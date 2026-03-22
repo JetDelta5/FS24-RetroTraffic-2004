@@ -29,8 +29,9 @@ AIRLINE NOTES
 Winter 2003 was selected for the additional fleet variety of the Douglas DC-9 and AirTran JetConnect Bombardier CRJ-200
 
 In Winter 2003:
-AirTran uses a common teal and beige livery across it's whole fleet
+AirTran Airways fleet is a common teal and beige livery across all aircraft
 AirTran is leasing Airbus A320s from Ryan International Airlines
+The Douglas DC-9 is on it's last legs, due for retirement next year
 AirTran JetConnect operates regional service out of Atlanta under Air Wisconsin
 
 ===================================================================================================

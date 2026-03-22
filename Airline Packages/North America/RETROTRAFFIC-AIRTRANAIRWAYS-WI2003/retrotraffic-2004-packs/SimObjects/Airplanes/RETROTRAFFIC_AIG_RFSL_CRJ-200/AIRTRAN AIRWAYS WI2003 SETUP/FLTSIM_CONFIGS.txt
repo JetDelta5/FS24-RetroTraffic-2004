@@ -9,7 +9,7 @@ BY RETROTRAFFIC 2004 PROJECT V1.0
 
 [fltsim.X]
 title="RETROTRAFFIC AirTran JetConnect opb Air Wisconsin Bombardier CRJ-200"
-model="200"
+model=""
 texture="TRSX-AirTranJetConnect-AWI"
 description="RETROTRAFFIC RFSL CRJ-200"
 ui_manufacturer="Bombardier"
