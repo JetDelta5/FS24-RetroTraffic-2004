@@ -1,0 +1,26 @@
+SUMMER 2004 AMERICAN AIRLINES RETROTRAFFIC B762
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Summer 2004 American Airlines RetroTraffic for the B762
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC American Airlines Boeing 767-200 GE"
+model="GEA"
+texture="AAL-AmericanAirlines"
+description="RETROTRAFFIC FAIB 767-200"
+ui_manufacturer="Boeing"
+ui_type ="767-200"
+ui_variation="American Airlines B762 GE"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="AMERICAN"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AAL"
+icao_airline="AAL"
+isAirTraffic=1
+isUserSelectable=0

@@ -1,0 +1,44 @@
+SUMMER 2004 AMERICAN AIRLINES RETROTRAFFIC A306
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Summer 2004 American Airlines RetroTraffic for the A306
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC American Airlines Airbus A300-600R GE"
+model=""
+texture="AAL-AmericanAirlines"
+description="RETROTRAFFIC TFS A300-600R"
+ui_manufacturer="Airbus"
+ui_type ="A300-600"
+ui_variation="American Airlines A306R GE"
+ui_typerole="Commercial Airliner"
+ui_createdby="The Fruit Stand"
+atc_airline="AMERICAN"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AAL"
+icao_airline="AAL"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC American Airlines Luxury Airbus A300-600R GE"
+model=""
+texture="AAL-AmericanAirlines-Luxury"
+description="RETROTRAFFIC TFS A300-600R"
+ui_manufacturer="Airbus"
+ui_type ="A300-600"
+ui_variation="American Airlines Luxury 306R GE"
+ui_typerole="Commercial Airliner"
+ui_createdby="The Fruit Stand"
+atc_airline="AMERICAN"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AAL"
+icao_airline="AAL"
+isAirTraffic=1
+isUserSelectable=0

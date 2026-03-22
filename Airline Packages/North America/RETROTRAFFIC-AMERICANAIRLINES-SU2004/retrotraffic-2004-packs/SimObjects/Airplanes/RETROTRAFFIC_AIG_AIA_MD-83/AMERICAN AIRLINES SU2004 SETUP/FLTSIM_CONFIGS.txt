@@ -1,0 +1,42 @@
+SUMMER 2004 AMERICAN AIRLINES RETROTRAFFIC MD-83
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Summer 2004 American Airlines RetroTraffic for the MD-83
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC American Airlines McDonnell Douglas MD-83"
+model="SD"
+texture="AAL-AmericanAirlines"
+description="RETROTRAFFIC AIA MD-83 SD"
+ui_manufacturer="McDonnell Douglas"
+ui_type ="MD-83"
+ui_variation="American Airlines MD-83"
+ui_typerole="Commercial Airliner"
+ui_createdby="AI Aardvark"
+atc_airline="AMERICAN"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AAL"
+icao_airline="AAL"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC American Airlines Black Nose McDonnell Douglas MD-83"
+model="SD"
+texture="AAL-AmericanAirlines-BlackNose"
+description="RETROTRAFFIC AIA MD-83 SD"
+ui_manufacturer="McDonnell Douglas"
+ui_type ="MD-83"
+ui_variation="American Airlines Black Nose MD-83"
+ui_typerole="Commercial Airliner"
+ui_createdby="AI Aardvark"
+atc_airline="AMERICAN"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AAL"
+icao_airline="AAL"
+isAirTraffic=1
+isUserSelectable=0
