@@ -8,7 +8,7 @@ Free to delete setup folder when finished
 BY RETROTRAFFIC 2004 PROJECT V1.0
 
 [fltsim.X]
-title="RETROTRAFFIC United Airlines Boeing 767-300 PW"
+title="RETROTRAFFIC United Airlines Boeing 767-300ER PW"
 model="PW"
 texture="UAL-UnitedAirlines"
 description="RETROTRAFFIC FAIB 767-300ER"
@@ -26,7 +26,7 @@ isAirTraffic=1
 isUserSelectable=0
 
 [fltsim.X+1]
-title="RETROTRAFFIC United Airlines Star Alliance Boeing 767-300 PW"
+title="RETROTRAFFIC United Airlines Star Alliance Boeing 767-300ER PW"
 model="PW"
 texture="UAL-UnitedAirlines-Star"
 description="RETROTRAFFIC FAIB 767-300ER"

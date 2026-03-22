@@ -8,7 +8,7 @@ Free to delete setup folder when finished
 BY RETROTRAFFIC 2004 PROJECT V1.0
 
 [fltsim.X]
-title="RETROTRAFFIC United Airlines Rising Blue Boeing 777-200 PW"
+title="RETROTRAFFIC United Airlines Rising Blue Boeing 777-200ER PW"
 model=""
 texture="UAL-UnitedAirlines-Blue"
 description="RETROTRAFFIC TFS 777-200ER"
@@ -26,7 +26,7 @@ isAirTraffic=1
 isUserSelectable=0
 
 [fltsim.X+1]
-title="RETROTRAFFIC United Airlines Battleship Grey Boeing 777-200 PW"
+title="RETROTRAFFIC United Airlines Battleship Grey Boeing 777-200ER PW"
 model=""
 texture="UAL-UnitedAirlines-Grey"
 description="RETROTRAFFIC TFS 777-200ER"
