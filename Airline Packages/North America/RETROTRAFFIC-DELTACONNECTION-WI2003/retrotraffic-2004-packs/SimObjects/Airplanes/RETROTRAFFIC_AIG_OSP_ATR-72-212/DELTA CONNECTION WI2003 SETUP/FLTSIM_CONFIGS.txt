@@ -1,0 +1,42 @@
+WINTER 2003 DELTA CONNECTION RETROTRAFFIC AT73
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Delta Connection RetroTraffic for the AT73
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Delta Connection Colors In Motion opb Atlantic Southeast Airlines ATR 72-212"
+model=""
+texture="DALX-DeltaConnection-Colors-CAA"
+description="RETROTRAFFIC OSP ATR 72-212"
+ui_manufacturer="ATR"
+ui_type ="ATR 72-212"
+ui_variation="Delta Connection Colors In Motion Atlantic Southeast Airlines AT73"
+ui_typerole="Commercial Airliner"
+ui_createdby="OSP"
+atc_airline="CANDLER"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,CAA"
+icao_airline="CAA"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC Delta Connection Ron Allen opb Atlantic Southeast Airlines ATR 72-212"
+model=""
+texture="DALX-DeltaConnection-RonAllen-CAA"
+description="RETROTRAFFIC OSP ATR 72-212"
+ui_manufacturer="ATR"
+ui_type ="ATR 72-212"
+ui_variation="Delta Connection Ron Allen Atlantic Southeast Airlines AT73"
+ui_typerole="Commercial Airliner"
+ui_createdby="OSP"
+atc_airline="CANDLER"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,CAA"
+icao_airline="CAA"
+isAirTraffic=1
+isUserSelectable=0

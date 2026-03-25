@@ -1,0 +1,42 @@
+WINTER 2003 DELTA CONNECTION RETROTRAFFIC J328
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Delta Connection RetroTraffic for the J328
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Delta Connection Colors In Motion opb Atlantic Coast Airlines Dornier 328Jet"
+model=""
+texture="DALX-DeltaConnection-Colors-BLR"
+description="RETROTRAFFIC AIG D328JET"
+ui_manufacturer="Dornier"
+ui_type ="328JET"
+ui_variation="Delta Connection Colors In Motion Atlantic Coast Airlines J328"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="BLUE RIDGE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,BLR"
+icao_airline="BLR"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC Delta Connection Ron Allen opb Atlantic Coast Airlines Dornier 328Jet"
+model=""
+texture="DALX-DeltaConnection-RonAllen-BLR"
+description="RETROTRAFFIC AIG D328JET"
+ui_manufacturer="Dornier"
+ui_type ="328JET"
+ui_variation="Delta Connection Ron Allen Atlantic Coast Airlines J328"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="BLUE RIDGE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,BLR"
+icao_airline="BLR"
+isAirTraffic=1
+isUserSelectable=0

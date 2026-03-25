@@ -1,0 +1,283 @@
+WINTER 2003 DELTA CONNECTION RETROTRAFFIC CRJ2
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Delta Connection RetroTraffic for the CRJ2
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Delta Connection Colors In Motion opb Atlantic Southeast Airlines Bombardier CRJ-200"
+model=""
+texture="DALX-DeltaConnection-Colors-CAA"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="Delta Connection Colors In Motion Atlantic Southeast Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="CANDLER"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,CAA"
+icao_airline="CAA"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC Delta Connection Ron Allen opb Atlantic Southeast Airlines Bombardier CRJ-200"
+model=""
+texture="DALX-DeltaConnection-RonAllen-CAA"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="Delta Connection Ron Allen Atlantic Southeast Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="CANDLER"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,CAA"
+icao_airline="CAA"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+2]
+title="RETROTRAFFIC Delta Connection ASA 20 Years opb Atlantic Southeast Airlines Bombardier CRJ-200"
+model=""
+texture="DALX-DeltaConnection-20Years-CAA"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="Delta Connection 20 Years Atlantic Southeast Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="CANDLER"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,CAA"
+icao_airline="CAA"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+3]
+title="RETROTRAFFIC Delta Connection Texas Blue opb Atlantic Southeast Airlines Bombardier CRJ-200"
+model=""
+texture="DALX-DeltaConnection-TexasBlue-CAA"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="Delta Connection Texas Blue Atlantic Southeast Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="CANDLER"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,CAA"
+icao_airline="CAA"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+4]
+title="RETROTRAFFIC Delta Connection 100th CRJ opb Atlantic Southeast Airlines Bombardier CRJ-200"
+model=""
+texture="DALX-DeltaConnection-100thCRJ-CAA"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="Delta Connection 100th CRJ Atlantic Southeast Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="CANDLER"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,CAA"
+icao_airline="CAA"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+5]
+title="RETROTRAFFIC Delta Connection Colors In Motion opb Comair Bombardier CRJ-200"
+model=""
+texture="DALX-DeltaConnection-Colors-COM"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="Delta Connection Colors In Motion Comair CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="COMAIR"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,COM"
+icao_airline="COM"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+6]
+title="RETROTRAFFIC Delta Connection Ron Allen opb Comair Bombardier CRJ-200"
+model=""
+texture="DALX-DeltaConnection-RonAllen-COM"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="Delta Connection Ron Allen Comair CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="COMAIR"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,COM"
+icao_airline="COM"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+7]
+title="RETROTRAFFIC Delta Connection Widget opb Comair Bombardier CRJ-200"
+model=""
+texture="DALX-DeltaConnection-Widget-COM"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="Delta Connection Widget Comair CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="COMAIR"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,COM"
+icao_airline="COM"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+8]
+title="RETROTRAFFIC Delta Connection Cincinnati Hub opb Comair Bombardier CRJ-200"
+model=""
+texture="DALX-DeltaConnection-Cincinnati-COM"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="Delta Connection Cincinnati Hub Comair CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="COMAIR"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,COM"
+icao_airline="COM"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+9]
+title="RETROTRAFFIC Delta Connection Colors In Motion opb SkyWest Airlines Bombardier CRJ-200"
+model=""
+texture="DALX-DeltaConnection-Colors-SKW"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="Delta Connection Colors In Motion SkyWest Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="SKYWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,SKW"
+icao_airline="SKW"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+10]
+title="RETROTRAFFIC Delta Connection Ron Allen opb SkyWest Airlines Bombardier CRJ-200"
+model=""
+texture="DALX-DeltaConnection-RonAllen-SKW"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="Delta Connection Ron Allen SkyWest Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="SKYWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,SKW"
+icao_airline="SKW"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+11]
+title="RETROTRAFFIC Delta Connection Widget opb SkyWest Airlines Bombardier CRJ-200"
+model=""
+texture="DALX-DeltaConnection-Widget-SKW"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="Delta Connection Widget SkyWest Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="SKYWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,SKW"
+icao_airline="SKW"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+12]
+title="RETROTRAFFIC Delta Connection No Titles opb SkyWest Airlines Bombardier CRJ-200"
+model=""
+texture="DALX-DeltaConnection-NoTitles-SKW"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="Delta Connection No Titles SkyWest Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="SKYWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,SKW"
+icao_airline="SKW"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+13]
+title="RETROTRAFFIC Delta Connection SkyWest 30th opb SkyWest Airlines Bombardier CRJ-200"
+model=""
+texture="DALX-DeltaConnection-30th-SKW"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="Delta Connection SkyWest 30th SkyWest Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="SKYWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,SKW"
+icao_airline="SKW"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+14]
+title="RETROTRAFFIC Delta Connection SkyWest House opb SkyWest Airlines Bombardier CRJ-200"
+model=""
+texture="DALX-DeltaConnection-House-SKW"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="Delta Connection SkyWest House SkyWest Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="SKYWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,SKW"
+icao_airline="SKW"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+15]
+title="RETROTRAFFIC Delta Connection Olympics 2002 opb SkyWest Airlines Bombardier CRJ-200"
+model=""
+texture="DALX-DeltaConnection-Olympics-SKW"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="Delta Connection Olympics 2002 SkyWest Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="SKYWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,SKW"
+icao_airline="SKW"
+isAirTraffic=1
+isUserSelectable=0
+
+
+

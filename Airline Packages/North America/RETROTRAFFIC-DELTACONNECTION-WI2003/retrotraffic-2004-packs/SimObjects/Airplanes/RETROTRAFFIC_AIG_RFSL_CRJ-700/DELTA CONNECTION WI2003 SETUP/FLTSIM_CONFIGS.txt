@@ -1,0 +1,42 @@
+WINTER 2003 DELTA CONNECTION RETROTRAFFIC CRJ7
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Delta Connection RetroTraffic for the CRJ7
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Delta Connection Colors In Motion opb Atlantic Southeast Airlines Bombardier CRJ-700"
+model=""
+texture="DALX-DeltaConnection-Colors-CAA"
+description="RETROTRAFFIC RFSL CRJ-700"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-700"
+ui_variation="Delta Connection Colors in Motion Atlantic Southeast Airlines CRJ7"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="CANDLER"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,CAA"
+icao_airline="CAA"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC Delta Connection Colors In Motion opb Comair Bombardier CRJ-700"
+model=""
+texture="DALX-DeltaConnection-Colors-COM"
+description="RETROTRAFFIC RFSL CRJ-700"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-700"
+ui_variation="Delta Connection Colors in Motion Comair CRJ7"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="COMAIR"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,COM"
+icao_airline="COM"
+isAirTraffic=1
+isUserSelectable=0

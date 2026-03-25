@@ -1,0 +1,25 @@
+WINTER 2003 DELTA CONNECTION RETROTRAFFIC E135
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Delta Connection RetroTraffic for the E135
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Delta Connection Colors In Motion opb Chautauqua Airlines Embraer ERJ-135"
+model="XAPU"
+texture="DALX-DeltaConnection-Colors-CHQ"
+description="RETROTRAFFIC AIG ERJ-135"
+ui_manufacturer="Embraer"
+ui_type ="ERJ-135"
+ui_variation="Delta Connection Colors In Motion Chautauqua Airlines E135"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="CHAUTAUQUA"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="DALX,CHQ"
+icao_airline="CHQ"
+isAirTraffic=1
+isUserSelectable=0
