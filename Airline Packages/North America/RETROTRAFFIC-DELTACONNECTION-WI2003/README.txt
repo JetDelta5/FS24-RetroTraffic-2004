@@ -34,6 +34,13 @@ SkyWest operates several Embraer 120 aircraft in house liveries to serve both De
 Comair has received the first of it's new Bombardier CRJ-700s
 ===================================================================================================
 PACKAGE AIRCRAFT REQUIRED:
+RETROTRAFFIC_AIG_AIA_EMB-120
+RETROTRAFFIC_AIG_AIG_D328JET
+RETROTRAFFIC_AIG_AIG_ERJ-135
+RETROTRAFFIC_AIG_AIG_ERJ-145
+RETROTRAFFIC_AIG_OSP_ATR-72-212
+RETROTRAFFIC_AIG_RFSL_CRJ-200
+RETROTRAFFIC_AIG_RFSL_CRJ-700
 
 CURRENT PACKAGE AIRCRAFT SUBSTITUTES:
 NONE

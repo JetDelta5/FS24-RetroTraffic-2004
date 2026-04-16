@@ -7,7 +7,7 @@ FOLLOW INSTRUCTIONS IN PDF FOR FURTHER GUIDE
  
 MODEL: AIA_Embraer_EMB-120_MSFS_1.6.zip/SimObjects/Airplanes/aia-embraer-emb120
 
-2. EXTRACT all files into RETROTRAFFIC_AIG_AIG_EMB-120
+2. EXTRACT all files into RETROTRAFFIC_AIG_AIA_EMB-120
 
 3. READ texture sources from DALX-DeltaConnection TXT files 
 
