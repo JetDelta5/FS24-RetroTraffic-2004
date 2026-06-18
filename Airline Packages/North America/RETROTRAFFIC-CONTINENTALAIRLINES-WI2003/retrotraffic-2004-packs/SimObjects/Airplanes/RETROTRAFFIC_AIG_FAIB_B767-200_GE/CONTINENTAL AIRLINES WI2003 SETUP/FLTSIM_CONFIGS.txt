@@ -1,0 +1,26 @@
+WINTER 2003 CONTINENTAL AIRLINES RETROTRAFFIC B762
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Continental Airlines RetroTraffic for the B762
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Continental Airlines Boeing 767-200 GE"
+model="GEC"
+texture="COA-ContinentalAirlines"
+description="RETROTRAFFIC FAIB 767-200"
+ui_manufacturer="Boeing"
+ui_type ="767-200"
+ui_variation="Continental Airlines B762 GE"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="CONTINENTAL"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="COA"
+icao_airline="COA"
+isAirTraffic=1
+isUserSelectable=0

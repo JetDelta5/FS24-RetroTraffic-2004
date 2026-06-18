@@ -1,0 +1,25 @@
+WINTER 2003 CONTINENTAL AIRLINES RETROTRAFFIC B753
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Continental Airlines RetroTraffic for the B753
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Continental Airlines Boeing 757-300 RR"
+model="rr-normal"
+texture="COA-ContinentalAirlines"
+description="RETROTRAFFIC AIG 757-300"
+ui_manufacturer="Boeing"
+ui_type ="757-300"
+ui_variation="Continental Airlines B753 RR"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="CONTINENTAL"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="COA"
+icao_airline="COA"
+isAirTraffic=1
+isUserSelectable=0

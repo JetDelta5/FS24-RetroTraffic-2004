@@ -1,0 +1,42 @@
+WINTER 2003 CONTINENTAL AIRLINES RETROTRAFFIC B738
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Continental Airlines RetroTraffic for the B738
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Continental Airlines Boeing 737-800"
+model=""
+texture="COA-ContinentalAirlines"
+description="RETROTRAFFIC FAIB 737-800"
+ui_manufacturer="Boeing"
+ui_type ="737-800"
+ui_variation="Continental Airlines B738"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="CONTINENTAL"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="COA"
+icao_airline="COA"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC Continental Micronesia Boeing 737-800"
+model=""
+texture="COA-ContinentalAirlines"
+description="RETROTRAFFIC FAIB 737-800"
+ui_manufacturer="Boeing"
+ui_type ="737-800"
+ui_variation="Continental Micronesia B738"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="AIR MIKE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="COA,CMI"
+icao_airline="CMI"
+isAirTraffic=1
+isUserSelectable=0
