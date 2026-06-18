@@ -1,4 +1,4 @@
-texture.DALX-DeltaConnection-Colors-CHQ FROM RETROTRAFFIC GOOGLE DRI
+texture.DALX-DeltaConnection-Colors-CHQ FROM RETROTRAFFIC GOOGLE DRIVE
 
 DRIVE LINK:
 https://drive.google.com/drive/folders/1oTmnnSvu8KHSbTgYUrT2m_Omdmsjd7O2?usp=sharing

@@ -33,6 +33,8 @@ Delta Connections fleet is a blend of old and new liveries, with aircraft being 
 SkyWest operates several Embraer 120 aircraft in house liveries to serve both Delta Connection and United Express on the west coast
 Comair has received the first of it's new Bombardier CRJ-700s
 ===================================================================================================
+PACKAGE FEATURES MIX OF HD FSX/P3D ERA AND SD FS9 ERA TEXTURES. HD TEXTURE CONTRIBUTIONS WELCOME.
+
 PACKAGE AIRCRAFT REQUIRED:
 RETROTRAFFIC_AIG_AIA_EMB-120
 RETROTRAFFIC_AIG_AIG_D328JET
