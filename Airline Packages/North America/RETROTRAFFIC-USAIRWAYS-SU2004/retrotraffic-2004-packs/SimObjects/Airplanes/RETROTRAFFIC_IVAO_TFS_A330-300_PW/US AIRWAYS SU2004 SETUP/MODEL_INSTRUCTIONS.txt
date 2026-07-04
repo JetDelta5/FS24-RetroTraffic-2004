@@ -1,0 +1,28 @@
+SUMMER 2004 US AIRWAYS RETROTRAFFIC A333
+REQUIRES TFS AIRBUS A330-300 PW
+SKIP TO STEP 3 IF MODEL INSTALLED PRIOR
+FOLLOW INSTRUCTIONS IN PDF FOR FURTHER GUIDE
+
+1. OBTAIN IVAO_A333_PW FROM IVAO MTL INSTALLER
+ 
+MODEL: IVAO_MTL/SimObjects/Airplanes/IVAO_A333_PW
+
+2. EXTRACT all files into RETROTRAFFIC_IVAO_TFS_A330-300_PW
+
+3. READ texture sources from USA-USAirways TXT files 
+
+4. SOURCE textures from available sites (AVSIM Library, RetroAI forums, Mikeys Retro Repaints, etc)
+
+5. CONVERT livery textures as directed by TXT files (FSX DXTbmp)
+
+6. READ livery config files from FLTSIM_CONFIGS TXT file
+
+7. NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+
+8. COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+
+Enjoy Summer 2004 US Airways RetroTraffic for the A333
+Free to delete setup folder when finished
+
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
