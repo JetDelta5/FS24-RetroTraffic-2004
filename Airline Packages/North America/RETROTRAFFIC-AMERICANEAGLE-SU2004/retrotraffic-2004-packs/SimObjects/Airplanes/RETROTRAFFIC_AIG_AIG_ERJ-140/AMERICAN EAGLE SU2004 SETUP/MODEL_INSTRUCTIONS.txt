@@ -1,0 +1,28 @@
+SUMMER 2004 AMERICAN EAGLE RETROTRAFFIC E140
+REQUIRES AIG EMBRAER ERJ-140
+SKIP TO STEP 3 IF MODEL INSTALLED PRIOR
+FOLLOW INSTRUCTIONS IN PDF FOR FURTHER GUIDE
+
+1. OBTAIN aig-embraer-erj-140 FROM AIG MANAGER
+ 
+MODEL: AIG_Embraer_ERJ-Series_MSFS_V1.4.zip/SimObjects/Airplanes/aig-embraer-erj-140
+
+2. EXTRACT all files into RETROTRAFFIC_AIG_AIG_ERJ-140
+
+3. READ texture sources from AALX-AmericanEagle TXT files 
+
+4. SOURCE textures from available sites (AVSIM Library, RetroAI forums, Mikeys Retro Repaints, etc)
+
+5. CONVERT livery textures as directed by TXT files (FSX DXTbmp)
+
+6. READ livery config files from FLTSIM_CONFIGS TXT file
+
+7. NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+
+8. COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+
+Enjoy Summer 2004 American Eagle RetroTraffic for the E140
+Free to delete setup folder when finished
+
+
+BY RETROTRAFFIC 2004 PROJECT V1.0

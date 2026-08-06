@@ -1,0 +1,42 @@
+NO MODEL IS AVAILABLE. FILE NAME IS A PLACEHOLDER IF MODEL EVER BECOMES AVAILABLE.
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+SUBSTITUTES LISTED BELOW
+RETROTRAFFIC_SUB_TBD_BAE-JS32 FOR RETROTRAFFIC_AIG_DJC_BAE-JS41 (no model)
+
+IF MODEL BECOMES AVAILALBE, DELETE SUBSTITUTE CONFIGS AND USE CONFIGS LISTED BELOW, REPLACING TBD AS NEEDED
+===========================================================================================================
+
+[fltsim.X]
+title="RETROTRAFFIC American Connection opb Corporate Airlines BAe Jetstream 32"
+model="TBD"
+texture="AALX-AmericanConnection-CEA"
+description="RETROTRAFFIC TBD BAE JS32"
+ui_manufacturer="British Aerospace"
+ui_type ="JS32"
+ui_variation="American Connection Corporate Airlines JS32"
+ui_typerole="Commercial Airliner"
+ui_createdby="TBD"
+atc_airline="CORP X"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AALX,CEA"
+icao_airline="CEA"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC American Connection Corporate House opb Corporate Airlines BAe Jetstream 32"
+model="TBD"
+texture="AALX-AmericanConnection-House-CEA"
+description="RETROTRAFFIC TBD BAE JS32"
+ui_manufacturer="British Aerospace"
+ui_type ="JS32"
+ui_variation="American Connection Corporate House Corporate Airlines JS32"
+ui_typerole="Commercial Airliner"
+ui_createdby="TBD"
+atc_airline="CORP X"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AALX,CEA"
+icao_airline="CEA"
+isAirTraffic=1
+isUserSelectable=0

@@ -1,0 +1,25 @@
+SUMMER 2004 AMERICAN EAGLE RETROTRAFFIC AT43
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Summer 2004 American Eagle RetroTraffic for the AT43
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC American Eagle opb Executive Airlines ATR 42-300"
+model=""
+texture="AALX-AmericanEagle-EXK"
+description="RETROTRAFFIC OSP ATR 42-300"
+ui_manufacturer="ATR"
+ui_type ="42-300"
+ui_variation="American Eagle Executive Airlines AT43"
+ui_typerole="Commercial Airliner"
+ui_createdby="EXK"
+atc_airline="EXECUTIVE EAGLE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AALX,EXK"
+icao_airline="EXK"
+isAirTraffic=1
+isUserSelectable=0

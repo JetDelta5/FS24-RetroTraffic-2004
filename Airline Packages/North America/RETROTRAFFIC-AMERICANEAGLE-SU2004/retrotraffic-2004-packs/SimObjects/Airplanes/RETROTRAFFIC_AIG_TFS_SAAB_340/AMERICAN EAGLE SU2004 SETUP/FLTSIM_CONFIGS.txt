@@ -1,0 +1,25 @@
+SUMMER 2004 AMERICAN EAGLE RETROTRAFFIC SF34
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Summer 2004 American Eagle RetroTraffic for the SF34
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC American Eagle Airlines Saab 340"
+model=""
+texture="AALX-AmericanEagle-EGF"
+description="RETROTRAFFIC TFS SAAB 340"
+ui_manufacturer="Saab"
+ui_type ="340"
+ui_variation="American Eagle Airlines SF34"
+ui_typerole="Commercial Airliner"
+ui_createdby="The Fruit Stand"
+atc_airline="EAGLE FLIGHT"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AALX,EGF"
+icao_airline="EGF"
+isAirTraffic=1
+isUserSelectable=0

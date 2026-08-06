@@ -1,0 +1,63 @@
+SUMMER 2004 AMERICAN EAGLE RETROTRAFFIC JS41
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Summer 2004 American Eagle RetroTraffic for the JS41
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC American Connection opb Trans States Airlines BAe Jetstream 41"
+model=""
+texture="AALX-AmericanConnection-LOF"
+description="RETROTRAFFIC DJC BAE JS41"
+ui_manufacturer="British Aerospace"
+ui_type ="JS41"
+ui_variation="American Connection Trans States Airlines JS41"
+ui_typerole="Commercial Airliner"
+ui_createdby="DJC"
+atc_airline="WATERSKI"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AALX,LOF"
+icao_airline="LOF"
+isAirTraffic=1
+isUserSelectable=0
+
+=========================================================================================
+RECOMMENDED SUBSTITUTES BELOW 
+RETROTRAFFIC_SUB_TBD_BAE-JS32 FOR RETROTRAFFIC_AIG_DJC_BAE-JS41 (no model)
+
+[fltsim.X+1]
+title="RETROTRAFFIC American Connection opb Corporate Airlines BAe Jetstream 32"
+model=""
+texture="AALX-AmericanConnection-LOF"
+description="RETROTRAFFIC DJC BAE JS32 SUBSTITUTE"
+ui_manufacturer="British Aerospace"
+ui_type ="JS32"
+ui_variation="American Connection Corporate Airlines JS32 SUBSTITUTE"
+ui_typerole="Commercial Airliner"
+ui_createdby="DJC"
+atc_airline="CORP X"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AALX,CEA"
+icao_airline="CEA"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+2]
+title="RETROTRAFFIC American Connection Corporate House opb Corporate Airlines BAe Jetstream 32"
+model=""
+texture="AALX-AmericanConnection-LOF"
+description="RETROTRAFFIC DJC BAE JS32 SUBSTITUTE"
+ui_manufacturer="British Aerospace"
+ui_type ="JS32"
+ui_variation="American Connection Corporate House Corporate Airlines JS32 SUBSTITUTE"
+ui_typerole="Commercial Airliner"
+ui_createdby="DJC"
+atc_airline="CORP X"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AALX,CEA"
+icao_airline="CEA"
+isAirTraffic=1
+isUserSelectable=0
