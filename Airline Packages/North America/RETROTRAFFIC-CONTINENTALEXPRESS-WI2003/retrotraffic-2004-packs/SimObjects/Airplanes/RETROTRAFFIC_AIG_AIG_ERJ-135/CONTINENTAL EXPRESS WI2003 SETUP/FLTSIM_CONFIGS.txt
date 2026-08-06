@@ -1,0 +1,25 @@
+WINTER 2003 CONTINENTAL EXPRESS RETROTRAFFIC E135
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Continental Express RetroTraffic for the E135
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Continental Express opb ExpressJet Airlines Embraer ERJ-135"
+model="XAPU"
+texture="COAX-ContinentalExpress-BTA"
+description="RETROTRAFFIC AIG ERJ-135"
+ui_manufacturer="Embraer"
+ui_type ="ERJ-135"
+ui_variation="Continental Express ExpressJet Airlines E135"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="JET LINK"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="COAX,BTA"
+icao_airline="BTA"
+isAirTraffic=1
+isUserSelectable=0

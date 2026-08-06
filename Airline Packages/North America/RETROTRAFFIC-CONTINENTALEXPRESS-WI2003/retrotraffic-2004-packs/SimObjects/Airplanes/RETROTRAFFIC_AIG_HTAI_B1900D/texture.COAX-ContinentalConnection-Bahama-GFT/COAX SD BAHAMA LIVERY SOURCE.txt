@@ -1,0 +1,24 @@
+Gulfstream Int'l Airlines (Continental Connection) Beech 1900 D FROM AVSIM Library
+
+SEARCH:
+Category: Flight Simulator 2004 - Aircraft Repaints, Textures and Modifications
+Gulfstream Int'l Airlines (Continental Connection) Beech 1900 D
+Filename: Gulfstream_Intl_Airlines_Continental_Connection_Be.zip
+Author:	Steve Tran / Henry Tomkiewicz
+
+FS9 ERA SD TEXTURE
+REQUIRES BMP TO DDS CONVERSION THROUGH FSX DXTBMP
+UPSCALING MAY BE DESIRED FOR 2048x2048 LIVERY TEXTURES
+
+LIVERY TEXTURE:
+SOURCE FILE PATH: Gulfstream_Intl_Airlines_Continental_Connection_Be/texture.GFT_N81535/1900D.bmp
+DESIRED FILE TO REPLACE: RETROTRAFFIC_AIG_HTAI_B1900D/texture.COAX-ContinentalConnection-Bahama-GFT/1900D.PNG.DDS
+
+LIGHTMAP TEXTURE NOT REQUIRED ON THIS LIVERY
+
+PLEASE ENSURE BOTH TEXTURE AND LIGHTMAP HAVE BEEN CONVERTED, INSTALLED, AND MATCH ORIENTATION. PLACEHOLDER TEXTURE AND LIGHTMAP WILL SHOW UP BROKEN.
+
+Enjoy Winter 2003 Continental Connection RetroTraffic for the B1900D
+
+
+BY RETROTRAFFIC 2004 PROJECT V1.0

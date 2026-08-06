@@ -1,0 +1,76 @@
+WINTER 2003 CONTINENTAL EXPRESS RETROTRAFFIC B1900D
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Continental Express RetroTraffic for the B1900D
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Continental Connection opb CommutAir Beechcraft 1900D"
+model=""
+texture="COAX-ContinentalConnection-UCA"
+description="RETROTRAFFIC HTAI B1900D"
+ui_manufacturer="Beechcraft"
+ui_type ="1900D"
+ui_variation="Continental Connection CommutAir B190"
+ui_typerole="Commercial Airliner"
+ui_createdby="HTAI"
+atc_airline="COMMUTAIR"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="COAX,UCA"
+icao_airline="UCA"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC Continental Connection US Air Hybrid opb CommutAir Beechcraft 1900D"
+model=""
+texture="COAX-ContinentalConnection-USAir-UCA"
+description="RETROTRAFFIC HTAI B1900D"
+ui_manufacturer="Beechcraft"
+ui_type ="1900D"
+ui_variation="Continental Connection US Air Hybrid CommutAir B190"
+ui_typerole="Commercial Airliner"
+ui_createdby="HTAI"
+atc_airline="COMMUTAIR"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="COAX,UCA"
+icao_airline="UCA"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+2]
+title="RETROTRAFFIC Continental Connection opb Gulfstream Airlines Beechcraft 1900D"
+model=""
+texture="COAX-ContinentalConnection-GFT"
+description="RETROTRAFFIC HTAI B1900D"
+ui_manufacturer="Beechcraft"
+ui_type ="1900D"
+ui_variation="Continental Connection Gulfstream Airlines B190"
+ui_typerole="Commercial Airliner"
+ui_createdby="HTAI"
+atc_airline="GULF FLIGHT"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="COAX,GFT"
+icao_airline="GFT"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+3]
+title="RETROTRAFFIC Continental Connection Grand Bahama opb Gulfstream Airlines Beechcraft 1900D"
+model=""
+texture="COAX-ContinentalConnection-Bahama-GFT"
+description="RETROTRAFFIC HTAI B1900D"
+ui_manufacturer="Beechcraft"
+ui_type ="1900D"
+ui_variation="Continental Connection Grand Bahama Gulfstream Airlines B190"
+ui_typerole="Commercial Airliner"
+ui_createdby="HTAI"
+atc_airline="GULF FLIGHT"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="COAX,GFT"
+icao_airline="GFT"
+isAirTraffic=1
+isUserSelectable=0
