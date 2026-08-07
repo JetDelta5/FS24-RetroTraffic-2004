@@ -1,0 +1,42 @@
+WINTER 2003 AMERICA WEST EXPRESS RETROTRAFFIC DH8B
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 America West Express RetroTraffic for the DH8B
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC America West Express opb Mesa Airlines DHC-8-200"
+model=""
+texture="AWEX-AmericaWestExpress-ASH"
+description="RETROTRAFFIC TFS DEHAVILLAND DHC-8-200"
+ui_manufacturer="De Havilland"
+ui_type ="DHC-8-200"
+ui_variation="America West Express Mesa Airlines DH8B"
+ui_typerole="Commercial Airliner"
+ui_createdby="The Fruit Stand"
+atc_airline="AIR SHUTTLE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AWEX,ASH"
+icao_airline="ASH"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC America West Express Mesa House opb Mesa Airlines DHC-8-200"
+model=""
+texture="AWEX-AmericaWestExpress-Mesa-ASH"
+description="RETROTRAFFIC TFS DEHAVILLAND DHC-8-200"
+ui_manufacturer="De Havilland"
+ui_type ="DHC-8-200"
+ui_variation="America West Express Mesa House Mesa Airlines DH8B"
+ui_typerole="Commercial Airliner"
+ui_createdby="The Fruit Stand"
+atc_airline="AIR SHUTTLE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AWEX,ASH"
+icao_airline="ASH"
+isAirTraffic=1
+isUserSelectable=0

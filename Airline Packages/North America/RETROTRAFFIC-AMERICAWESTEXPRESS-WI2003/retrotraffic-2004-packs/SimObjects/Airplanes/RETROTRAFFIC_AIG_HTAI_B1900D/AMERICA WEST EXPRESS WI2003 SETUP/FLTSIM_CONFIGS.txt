@@ -1,0 +1,42 @@
+WINTER 2003 AMERICA WEST EXPRESS RETROTRAFFIC B1900D
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 America West Express RetroTraffic for the B1900D
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC America West Express opb Mesa Airlines Beechcraft 1900D"
+model=""
+texture="AWEX-AmericaWestExpress-ASH"
+description="RETROTRAFFIC HTAI B1900D"
+ui_manufacturer="Beechcraft"
+ui_type ="1900D"
+ui_variation="America West Express Mesa Airlines B190"
+ui_typerole="Commercial Airliner"
+ui_createdby="HTAI"
+atc_airline="AIR SHUTTLE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AWEX,ASH"
+icao_airline="ASH"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC America West Express Mesa Anniversary opb Mesa Airlines Beechcraft 1900D"
+model=""
+texture="AWEX-AmericaWestExpress-Mesa-ASH"
+description="RETROTRAFFIC HTAI B1900D"
+ui_manufacturer="Beechcraft"
+ui_type ="1900D"
+ui_variation="America West Express Mesa Anniversary Mesa Airlines B190"
+ui_typerole="Commercial Airliner"
+ui_createdby="HTAI"
+atc_airline="AIR SHUTTLE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AWEX,ASH"
+icao_airline="ASH"
+isAirTraffic=1
+isUserSelectable=0

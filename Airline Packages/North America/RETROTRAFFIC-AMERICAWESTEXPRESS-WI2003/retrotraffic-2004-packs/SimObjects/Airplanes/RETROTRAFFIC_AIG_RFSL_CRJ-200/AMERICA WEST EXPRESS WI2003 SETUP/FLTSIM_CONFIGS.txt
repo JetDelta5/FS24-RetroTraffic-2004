@@ -1,0 +1,79 @@
+WINTER 2003 AMERICA WEST EXPRESS RETROTRAFFIC CRJ2
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 America West Express RetroTraffic for the CRJ2
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC America West Express opb Mesa Airlines Bombardier CRJ-200"
+model=""
+texture="AWEX-AmericaWestExpress-ASH"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="America West Expresss Mesa Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="AIR SHUTTLE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AWEX,ASH"
+icao_airline="ASH"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC America West Express Billboard opb Mesa Airlines Bombardier CRJ-200"
+model=""
+texture="AWEX-AmericaWestExpress-Board-ASH"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="America West Expresss Billboard Mesa Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="AIR SHUTTLE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AWEX,ASH"
+icao_airline="ASH"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+2]
+title="RETROTRAFFIC America West Express Mesa House opb Mesa Airlines Bombardier CRJ-200"
+model=""
+texture="AWEX-AmericaWestExpress-Mesa-ASH"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="America West Expresss Mesa House Mesa Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="AIR SHUTTLE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AWEX,ASH"
+icao_airline="ASH"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+3]
+title="RETROTRAFFIC America West Express White opb Mesa Airlines Bombardier CRJ-200"
+model=""
+texture="AWEX-AmericaWestExpress-White-ASH"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="America West Expresss White Mesa Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="AIR SHUTTLE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AWEX,ASH"
+icao_airline="ASH"
+isAirTraffic=1
+isUserSelectable=0
+
+
+
