@@ -1,0 +1,28 @@
+SUMMER 2004 UNITED EXPRESS RETROTRAFFIC DH8B
+REQUIRES TFS DHC-8-200
+SKIP TO STEP 3 IF MODEL INSTALLED PRIOR
+FOLLOW INSTRUCTIONS IN PDF FOR FURTHER GUIDE
+
+1. OBTAIN IVAO_DH8A FROM IVAO MTL INSTALLER
+ 
+MODEL: IVAO_MTL/SimObjects/Airplanes/IVAO_DH8A
+
+2. EXTRACT all files into RETROTRAFFIC_IVAO_TFS_DHC-8-200
+
+3. READ texture sources from UALX-UnitedExpress TXT files 
+
+4. SOURCE textures from available sites (AVSIM Library, RetroAI forums, Mikeys Retro Repaints, etc)
+
+5. CONVERT livery textures as directed by TXT files (FSX DXTbmp)
+
+6. READ livery config files from FLTSIM_CONFIGS TXT file
+
+7. NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+
+8. COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+
+Enjoy Summer 2004 United Express RetroTraffic for the DH8B
+Free to delete setup folder when finished
+
+
+BY RETROTRAFFIC 2004 PROJECT V1.0

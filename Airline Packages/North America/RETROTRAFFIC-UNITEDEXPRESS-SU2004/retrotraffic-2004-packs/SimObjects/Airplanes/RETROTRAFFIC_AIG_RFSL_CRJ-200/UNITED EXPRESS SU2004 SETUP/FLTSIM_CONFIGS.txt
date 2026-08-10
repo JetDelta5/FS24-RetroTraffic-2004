@@ -1,0 +1,127 @@
+SUMMER 2004 UNITED EXPRESS RETROTRAFFIC CRJ2
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Summer 2004 United Express RetroTraffic for the CRJ2
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC United Express Battleship Grey opb Air Wisconsin Bombardier CRJ-200"
+model=""
+texture="UALX-UnitedExpress-Grey-AWI"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="United Express Battleship Grey Air Wisconsin CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="WISCONSIN"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,AWI"
+icao_airline="AWI"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC United Express Rising Blue opb Mesa Airlines Bombardier CRJ-200"
+model=""
+texture="UALX-UnitedExpress-Blue-ASH"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="United Express Rising Blue Mesa Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="AIR SHUTTLE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,ASH"
+icao_airline="ASH"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+2]
+title="RETROTRAFFIC United Express Battleship Grey opb Mesa Airlines Bombardier CRJ-200"
+model=""
+texture="UALX-UnitedExpress-Grey-ASH"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="United Express Battleship Grey Mesa Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="AIR SHUTTLE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,ASH"
+icao_airline="ASH"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+3]
+title="RETROTRAFFIC United Express Mesa House opb Mesa Airlines Bombardier CRJ-200"
+model=""
+texture="UALX-UnitedExpress-Mesa-ASH"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="United Express Mesa House Mesa Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="AIR SHUTTLE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,ASH"
+icao_airline="ASH"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+4]
+title="RETROTRAFFIC United Express White opb Mesa Airlines Bombardier CRJ-200"
+model=""
+texture="UALX-UnitedExpress-White-ASH"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="United Express White Mesa Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="AIR SHUTTLE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,ASH"
+icao_airline="ASH"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+5]
+title="RETROTRAFFIC United Express Rising Blue opb SkyWest Airlines Bombardier CRJ-200"
+model=""
+texture="UALX-UnitedExpress-Blue-SKW"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="United Express Rising Blue SkyWest Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="SKYWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,SKW"
+icao_airline="SKW"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+6]
+title="RETROTRAFFIC United Express Battleship Grey opb SkyWest Airlines Bombardier CRJ-200"
+model=""
+texture="UALX-UnitedExpress-Grey-SKW"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="United Express Battleship Grey SkyWest Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="SKYWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,SKW"
+icao_airline="SKW"
+isAirTraffic=1
+isUserSelectable=0

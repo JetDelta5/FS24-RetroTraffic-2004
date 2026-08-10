@@ -1,0 +1,76 @@
+SUMMER 2004 UNITED EXPRESS RETROTRAFFIC CRJ7
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Summer 2004 United Express RetroTraffic for the CRJ7
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC United Express Rising Blue opb Mesa Airlines Bombardier CRJ-700"
+model=""
+texture="UALX-UnitedExpress-Blue-ASH"
+description="RETROTRAFFIC RFSL CRJ-700"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-700"
+ui_variation="United Express Rising Blue Mesa Airlines CRJ7"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="AIR SHUTTLE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,ASH"
+icao_airline="ASH"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC United Express Battleship Grey opb Mesa Airlines Bombardier CRJ-700"
+model=""
+texture="UALX-UnitedExpress-Grey-ASH"
+description="RETROTRAFFIC RFSL CRJ-700"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-700"
+ui_variation="United Express Battleship Grey Mesa Airlines CRJ7"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="AIR SHUTTLE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,ASH"
+icao_airline="ASH"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+2]
+title="RETROTRAFFIC United Express Rising Blue opb SkyWest Airlines Bombardier CRJ-700"
+model=""
+texture="UALX-UnitedExpress-Blue-SKW"
+description="RETROTRAFFIC RFSL CRJ-700"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-700"
+ui_variation="United Express Rising Blue SkyWest Airlines CRJ7"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="SKYWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,SKW"
+icao_airline="SKW"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+3]
+title="RETROTRAFFIC United Express Battleship Grey opb SkyWest Airlines Bombardier CRJ-700"
+model=""
+texture="UALX-UnitedExpress-Grey-SKW"
+description="RETROTRAFFIC RFSL CRJ-700"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-700"
+ui_variation="United Express Battleship Grey SkyWest Airlines CRJ7"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="SKYWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,SKW"
+icao_airline="SKW"
+isAirTraffic=1
+isUserSelectable=0

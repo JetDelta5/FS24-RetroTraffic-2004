@@ -1,0 +1,59 @@
+SUMMER 2004 UNITED EXPRESS RETROTRAFFIC E120
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Summer 2004 United Express RetroTraffic for the E120
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC United Express Battleship Grey opb SkyWest Airlines Embraer EMB-120"
+model=""
+texture="UALX-UnitedExpress-SKW"
+description="RETROTRAFFIC AIA EMB-120"
+ui_manufacturer="Embraer"
+ui_type ="EMB-120"
+ui_variation="United Express SkyWest Airlines E120"
+ui_typerole="Commercial Airliner"
+ui_createdby="AI Aardvark"
+atc_airline="SKYWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,SKW"
+icao_airline="SKW"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC United Express SkyWest House opb SkyWest Airlines Embraer EMB-120"
+model=""
+texture="UALX-UnitedExpress-SkyWest-SKW"
+description="RETROTRAFFIC AIA EMB-120"
+ui_manufacturer="Embraer"
+ui_type ="EMB-120"
+ui_variation="United Express SkyWest House SkyWest Airlines E120"
+ui_typerole="Commercial Airliner"
+ui_createdby="AI Aardvark"
+atc_airline="SKYWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,SKW"
+icao_airline="SKW"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+2]
+title="RETROTRAFFIC United Express 350th opb SkyWest Airlines Embraer EMB-120"
+model=""
+texture="UALX-UnitedExpress-350th-SKW"
+description="RETROTRAFFIC AIA EMB-120"
+ui_manufacturer="Embraer"
+ui_type ="EMB-120"
+ui_variation="United Express 350th SkyWest Airlines E120"
+ui_typerole="Commercial Airliner"
+ui_createdby="AI Aardvark"
+atc_airline="SKYWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,SKW"
+icao_airline="SKW"
+isAirTraffic=1
+isUserSelectable=0

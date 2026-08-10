@@ -1,0 +1,76 @@
+SUMMER 2004 UNITED EXPRESS RETROTRAFFIC E145
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Summer 2004 United Express RetroTraffic for the E145
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC United Express Rising Blue opb Chautauqua Airlines Embraer ERJ-145"
+model="XAPU"
+texture="UALX-UnitedExpress-Blue-CHQ"
+description="RETROTRAFFIC AIG ERJ-145"
+ui_manufacturer="Embraer"
+ui_type ="ERJ-145"
+ui_variation="United Express Rising Blue Chautauqua Airlines E145"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="CHAUTAUQUA"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,CHQ"
+icao_airline="CHQ"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC United Express Rising Blue opb Trans States Airlines Embraer ERJ-145"
+model="XAPU"
+texture="UALX-UnitedExpress-Blue-LOF"
+description="RETROTRAFFIC AIG ERJ-145"
+ui_manufacturer="Embraer"
+ui_type ="ERJ-145"
+ui_variation="United Express Rising Blue Trans States Airlines E145"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="WATERSKI"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,LOF"
+icao_airline="LOF"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+2]
+title="RETROTRAFFIC United Express Battleship Grey opb Trans States Airlines Embraer ERJ-145"
+model="XAPU"
+texture="UALX-UnitedExpress-Grey-LOF"
+description="RETROTRAFFIC AIG ERJ-145"
+ui_manufacturer="Embraer"
+ui_type ="ERJ-145"
+ui_variation="United Express Battleship Grey Trans States Airlines E145"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="WATERSKI"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,LOF"
+icao_airline="LOF"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+3]
+title="RETROTRAFFIC United Express US Air Hybrid opb Trans States Airlines Embraer ERJ-145"
+model="XAPU"
+texture="UALX-UnitedExpress-USAir-LOF"
+description="RETROTRAFFIC AIG ERJ-145"
+ui_manufacturer="Embraer"
+ui_type ="ERJ-145"
+ui_variation="United Express US Air Hybrid Trans States Airlines E145"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="WATERSKI"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,LOF"
+icao_airline="LOF"
+isAirTraffic=1
+isUserSelectable=0

@@ -1,0 +1,59 @@
+SUMMER 2004 UNITED EXPRESS RETROTRAFFIC DH8B
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Summer 2004 United Express RetroTraffic for the DH8B
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC United Express Rising Blue opb Mesa Airlines DHC-8-200"
+model=""
+texture="UALX-UnitedExpress-Blue-ASH"
+description="RETROTRAFFIC TFS DEHAVILLAND DHC-8-200"
+ui_manufacturer="De Havilland"
+ui_type ="DHC-8-200"
+ui_variation="United Express Rising Blue Mesa Airlines DH8B"
+ui_typerole="Commercial Airliner"
+ui_createdby="The Fruit Stand"
+atc_airline="AIR SHUTTLE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,ASH"
+icao_airline="ASH"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC United Express Battleship Grey opb Mesa Airlines DHC-8-200"
+model=""
+texture="UALX-UnitedExpress-Grey-ASH"
+description="RETROTRAFFIC TFS DEHAVILLAND DHC-8-200"
+ui_manufacturer="De Havilland"
+ui_type ="DHC-8-200"
+ui_variation="United Express Battleship Blue Grey Airlines DH8B"
+ui_typerole="Commercial Airliner"
+ui_createdby="The Fruit Stand"
+atc_airline="AIR SHUTTLE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,ASH"
+icao_airline="ASH"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+2]
+title="RETROTRAFFIC United Express White opb Mesa Airlines DHC-8-200"
+model=""
+texture="UALX-UnitedExpress-White-ASH"
+description="RETROTRAFFIC TFS DEHAVILLAND DHC-8-200"
+ui_manufacturer="De Havilland"
+ui_type ="DHC-8-200"
+ui_variation="United Express White Mesa Airlines DH8B"
+ui_typerole="Commercial Airliner"
+ui_createdby="The Fruit Stand"
+atc_airline="AIR SHUTTLE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="UALX,ASH"
+icao_airline="ASH"
+isAirTraffic=1
+isUserSelectable=0
