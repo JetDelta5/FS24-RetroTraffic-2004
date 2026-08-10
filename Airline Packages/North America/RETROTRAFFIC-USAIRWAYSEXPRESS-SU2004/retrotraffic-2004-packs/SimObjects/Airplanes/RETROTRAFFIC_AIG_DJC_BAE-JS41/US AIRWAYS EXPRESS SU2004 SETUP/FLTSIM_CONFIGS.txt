@@ -1,0 +1,25 @@
+SUMMER 2004 US AIRWAYS EXPRESS RETROTRAFFIC JS41
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Summer 2004 US Airways Express RetroTraffic for the JS41
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC US Airways Express opb Trans States Airlines BAe Jetstream 41"
+model=""
+texture="USAX-USAirwaysExpress-LOF"
+description="RETROTRAFFIC DJC BAE JS41"
+ui_manufacturer="British Aerospace"
+ui_type ="JS41"
+ui_variation="US Airways Express Trans States Airlines JS41"
+ui_typerole="Commercial Airliner"
+ui_createdby="DJC"
+atc_airline="WATERSKI"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="USAX,LOF"
+icao_airline="LOF"
+isAirTraffic=1
+isUserSelectable=0

@@ -1,0 +1,25 @@
+SUMMER 2004 US AIRWAYS EXPRESS RETROTRAFFIC E170
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Summer 2004 US Airways Express RetroTraffic for the E170
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC US Airways Express opb MidAtlantic Airways Embraer ERJ-170"
+model="OW_rev3"
+texture="USAX-USAirwaysExpress-PDC"
+description="RETROTRAFFIC RFSL EMB-170"
+ui_manufacturer="Embraer"
+ui_type ="170"
+ui_variation="US Airways Express MidAtlantic Airways E170"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="US AIR"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="USAX,PDC"
+icao_airline="USA"
+isAirTraffic=1
+isUserSelectable=0

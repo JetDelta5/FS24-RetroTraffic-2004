@@ -1,0 +1,42 @@
+SUMMER 2004 US AIRWAYS EXPRESS RETROTRAFFIC B1900D
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Summer 2004 US Airways Express RetroTraffic for the B1900D
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC US Airways Express opb Air Midwest Beechcraft 1900D"
+model=""
+texture="USAX-USAirwaysExpress-AMW"
+description="RETROTRAFFIC HTAI B1900D"
+ui_manufacturer="Beechcraft"
+ui_type ="1900D"
+ui_variation="US Airways Express Air Midwest B190"
+ui_typerole="Commercial Airliner"
+ui_createdby="HTAI"
+atc_airline="AIR MIDWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="USAX,AMW"
+icao_airline="AMW"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC US Airways Express opb Colgan Air Beechcraft 1900D"
+model=""
+texture="USAX-USAirwaysExpress-CJC"
+description="RETROTRAFFIC HTAI B1900D"
+ui_manufacturer="Beechcraft"
+ui_type ="1900D"
+ui_variation="US Airways Express Colgan Air B190"
+ui_typerole="Commercial Airliner"
+ui_createdby="HTAI"
+atc_airline="COLGAN"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="USAX,CJC"
+icao_airline="CJC"
+isAirTraffic=1
+isUserSelectable=0

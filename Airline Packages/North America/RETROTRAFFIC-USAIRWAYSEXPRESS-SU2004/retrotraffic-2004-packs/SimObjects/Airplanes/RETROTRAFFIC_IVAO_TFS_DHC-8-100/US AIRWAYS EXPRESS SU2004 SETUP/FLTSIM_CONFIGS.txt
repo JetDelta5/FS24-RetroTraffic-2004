@@ -1,0 +1,25 @@
+SUMMER 2004 US AIRWAYS EXPRESS RETROTRAFFIC DH8A
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Summer 2004 US Airways Express RetroTraffic for the DH8A
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC US Airways Express opb Piedmont Airlines De Havilland DHC-8-100"
+model=""
+texture="USAX-USAirwaysExpress-PDT"
+description="RETROTRAFFIC TFS DEHAVILLAND DHC-8-100"
+ui_manufacturer="De Havilland"
+ui_type ="DHC-8-100"
+ui_variation="US Airways Express Piedmont Airlines DH8A"
+ui_typerole="Commercial Airliner"
+ui_createdby="The Fruit Stand"
+atc_airline="PIEDMONT"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="USAX,PDT"
+icao_airline="PDT"
+isAirTraffic=1
+isUserSelectable=0

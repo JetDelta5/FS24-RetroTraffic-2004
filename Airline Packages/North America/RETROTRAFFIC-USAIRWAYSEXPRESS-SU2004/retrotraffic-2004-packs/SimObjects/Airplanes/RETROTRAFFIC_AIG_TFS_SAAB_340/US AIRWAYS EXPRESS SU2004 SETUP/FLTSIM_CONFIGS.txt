@@ -1,0 +1,42 @@
+SUMMER 2004 US AIRWAYS EXPRESS RETROTRAFFIC SF34
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Summer 2004 US Airways Express RetroTraffic for the SF34
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC US Airways Express opb Colgan Air Saab 340"
+model=""
+texture="USAX-USAirwaysExpress-CJC"
+description="RETROTRAFFIC TFS SAAB 340"
+ui_manufacturer="Saab"
+ui_type ="340"
+ui_variation="US Airways Express Colgan Air SF34"
+ui_typerole="Commercial Airliner"
+ui_createdby="The Fruit Stand"
+atc_airline="COLGAN"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="USAX,CJC"
+icao_airline="CJC"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC US Airways Express opb Shuttle America Saab 340"
+model=""
+texture="USAX-USAirwaysExpress-TCF"
+description="RETROTRAFFIC TFS SAAB 340"
+ui_manufacturer="Saab"
+ui_type ="340"
+ui_variation="US Airways Express Shuttle America SF34"
+ui_typerole="Commercial Airliner"
+ui_createdby="The Fruit Stand"
+atc_airline="MERCURY"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="USAX,TCF"
+icao_airline="TCF"
+isAirTraffic=1
+isUserSelectable=0

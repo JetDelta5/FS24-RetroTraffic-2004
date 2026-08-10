@@ -1,0 +1,28 @@
+SUMMER 2004 US AIRWAYS EXPRESS RETROTRAFFIC SF34
+REQUIRES TFS SAAB 340
+SKIP TO STEP 3 IF MODEL INSTALLED PRIOR
+FOLLOW INSTRUCTIONS IN PDF FOR FURTHER GUIDE
+
+1. OBTAIN tfs-saab-340 FROM SOURCE
+ 
+MODEL: TFS_Saab_340_MSFS_V1.6.zip/SimObjects/Airplanes/tfs-saab-340
+
+2. EXTRACT all files into RETROTRAFFIC_AIG_TFS_SAAB_340
+
+3. READ texture sources from USAX-USAirwaysExpress TXT files 
+
+4. SOURCE textures from available sites (AVSIM Library, RetroAI forums, Mikeys Retro Repaints, etc)
+
+5. CONVERT livery textures as directed by TXT files (FSX DXTbmp)
+
+6. READ livery config files from FLTSIM_CONFIGS TXT file
+
+7. NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+
+8. COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+
+Enjoy Summer 2004 US Airways Express RetroTraffic for the SF34
+Free to delete setup folder when finished
+
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
