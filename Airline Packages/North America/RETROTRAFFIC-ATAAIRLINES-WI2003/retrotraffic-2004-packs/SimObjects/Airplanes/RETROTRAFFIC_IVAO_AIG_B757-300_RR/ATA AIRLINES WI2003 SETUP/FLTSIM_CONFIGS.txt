@@ -1,0 +1,42 @@
+WINTER 2003 ATA AIRLINES RETROTRAFFIC B753
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 ATA Airlines RetroTraffic for the B753
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC ATA Airlines Flag Livery Boeing 757-300 RR"
+model="rr-normal"
+texture="AMT-ATAAirlines-Flag"
+description="RETROTRAFFIC FAIB 757-300"
+ui_manufacturer="Boeing"
+ui_type ="757-300"
+ui_variation="ATA Airlines Flag Livery B753 RR"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="AMTRAN"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AMT"
+icao_airline="AMT"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC ATA Airlines Pleasant Holiday Boeing 757-300 RR"
+model="rr-normal"
+texture="AMT-ATAAirlines-Pleasant"
+description="RETROTRAFFIC FAIB 757-300"
+ui_manufacturer="Boeing"
+ui_type ="757-300"
+ui_variation="ATA Airlines Pleasant Holiday B753 RR"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="AMTRAN"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AMT"
+icao_airline="AMT"
+isAirTraffic=1
+isUserSelectable=0

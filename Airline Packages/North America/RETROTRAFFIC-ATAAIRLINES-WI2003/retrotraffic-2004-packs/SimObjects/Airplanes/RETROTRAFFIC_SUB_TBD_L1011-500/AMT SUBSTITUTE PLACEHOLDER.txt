@@ -1,0 +1,44 @@
+NO MODEL IS AVAILABLE. FILE NAME IS A PLACEHOLDER IF MODEL EVER BECOMES AVAILABLE.
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+SUBSTITUTES LISTED BELOW
+RETROTRAFFIC_SUB_TBD_L1011-500 FOR RETROTRAFFIC_IVAO_DWAI_L1011-100 (no model)
+
+IF MODEL BECOMES AVAILALBE, DELETE SUBSTITUTE CONFIGS AND USE CONFIGS LISTED BELOW, REPLACING TBD AS NEEDED
+===========================================================================================================
+
+[fltsim.X]
+title="RETROTRAFFIC ATA Airlines Palm Tree Lockheed L-1011-500"
+model="TBD"
+texture="AMT-ATAAirlines-Palm"
+description="RETROTRAFFIC TBD L1011-500"
+ui_manufacturer="Lockheed"
+ui_type ="L1011-500"
+ui_variation="ATA Airlines Palm Tree L101"
+ui_typerole="Commercial Airliner"
+ui_createdby="TBD"
+atc_airline="AMTRAN"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AMT"
+icao_airline="AMT"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC ATA Airlines Pleasant Hawaiian Lockheed L-1011-500"
+model="TBD"
+texture="AMT-ATAAirlines-Hawaiian"
+description="RETROTRAFFIC TBD L1011-500"
+ui_manufacturer="Lockheed"
+ui_type ="L1011-500"
+ui_variation="ATA Airlines Pleasant Hawaiian L101"
+ui_typerole="Commercial Airliner"
+ui_createdby="TBD"
+atc_airline="AMTRAN"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AMT"
+icao_airline="AMT"
+isAirTraffic=1
+isUserSelectable=0

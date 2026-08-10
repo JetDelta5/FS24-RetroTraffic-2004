@@ -1,0 +1,29 @@
+WINTER 2003 ATA AIRLINES RETROTRAFFIC B753
+REQUIRES AIG BOEING 757-300 RR
+SKIP TO STEP 3 IF MODEL INSTALLED PRIOR
+FOLLOW INSTRUCTIONS IN PDF FOR FURTHER GUIDE
+
+1. OBTAIN IVAO_B753_AIG FROM IVAO MTL INSTALLER
+ 
+MODEL: IVAO_MTL/SimObjects/Airplanes/IVAO_B753_AIG
+ENSURE IVAO_B753_AIG CONTAINS model.rr-normal FOLDER
+
+2. EXTRACT all files into RETROTRAFFIC_IVAO_AIG_B757-300_RR
+
+3. READ texture sources from AMT-ATAAirlines TXT files 
+
+4. SOURCE textures from available sites (AVSIM Library, RetroAI forums, Mikeys Retro Repaints, etc)
+
+5. CONVERT livery textures as directed by TXT files (FSX DXTbmp)
+
+6. READ livery config files from FLTSIM_CONFIGS TXT file
+
+7. NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+
+8. COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+
+Enjoy Winter 2003 ATA Airlines RetroTraffic for the B753
+Free to delete setup folder when finished
+
+
+BY RETROTRAFFIC 2004 PROJECT V1.0

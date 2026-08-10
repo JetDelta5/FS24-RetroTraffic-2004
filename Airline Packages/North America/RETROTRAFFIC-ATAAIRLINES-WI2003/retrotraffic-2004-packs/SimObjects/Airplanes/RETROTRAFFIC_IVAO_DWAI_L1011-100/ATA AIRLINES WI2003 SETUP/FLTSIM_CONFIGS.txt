@@ -1,0 +1,103 @@
+WINTER 2003 ATA AIRLINES RETROTRAFFIC L1011-100
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 ATA Airlines RetroTraffic for the L1011-100
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC ATA Airlines Palm Tree Lockheed L-1011-100"
+model="500"
+texture="AMT-ATAAirlines-Palm"
+description="RETROTRAFFIC DWAI L1011-100"
+ui_manufacturer="Lockheed"
+ui_type ="L1011-100"
+ui_variation="ATA Airlines Palm Tree L101"
+ui_typerole="Commercial Airliner"
+ui_createdby="Dee Waldron"
+atc_airline="AMTRAN"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AMT"
+icao_airline="AMT"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC ATA Airlines Pleasant Hawaiian Lockheed L-1011-100"
+model="500"
+texture="AMT-ATAAirlines-Hawaiian"
+description="RETROTRAFFIC DWAI L1011-100"
+ui_manufacturer="Lockheed"
+ui_type ="L1011-100"
+ui_variation="ATA Airlines Pleasant Hawaiian L101"
+ui_typerole="Commercial Airliner"
+ui_createdby="Dee Waldron"
+atc_airline="AMTRAN"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AMT"
+icao_airline="AMT"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+2]
+title="RETROTRAFFIC ATA Airlines Retro Stripes Lockheed L-1011-100"
+model="500"
+texture="AMT-ATAAirlines-Stripes"
+description="RETROTRAFFIC DWAI L1011-100"
+ui_manufacturer="Lockheed"
+ui_type ="L1011-100"
+ui_variation="ATA Airlines Retro Stripes L101"
+ui_typerole="Commercial Airliner"
+ui_createdby="Dee Waldron"
+atc_airline="AMTRAN"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AMT"
+icao_airline="AMT"
+isAirTraffic=1
+isUserSelectable=0
+
+
+=========================================================================================
+RECOMMENDED SUBSTITUTES BELOW 
+RETROTRAFFIC_SUB_TBD_L1011-500 FOR RETROTRAFFIC_IVAO_DWAI_L1011-100 (no model)
+
+[fltsim.X+3]
+title="RETROTRAFFIC ATA Airlines Palm Tree Lockheed L-1011-500"
+model="500"
+texture="AMT-ATAAirlines-Palm"
+description="RETROTRAFFIC DWAI L1011-500 SUBSTITUTE"
+ui_manufacturer="Lockheed"
+ui_type ="L1011-500"
+ui_variation="ATA Airlines Palm Tree L101 SUBSTITUTE"
+ui_typerole="Commercial Airliner"
+ui_createdby="Dee Waldron"
+atc_airline="AMTRAN"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AMT"
+icao_airline="AMT"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+4]
+title="RETROTRAFFIC ATA Airlines Pleasant Hawaiian Lockheed L-1011-500"
+model="500"
+texture="AMT-ATAAirlines-Hawaiian"
+description="RETROTRAFFIC DWAI L1011-500 SUBSTITUTE"
+ui_manufacturer="Lockheed"
+ui_type ="L1011-500"
+ui_variation="ATA Airlines Pleasant Hawaiian L101 SUBSTITUTE"
+ui_typerole="Commercial Airliner"
+ui_createdby="Dee Waldron"
+atc_airline="AMTRAN"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AMT"
+icao_airline="AMT"
+isAirTraffic=1
+isUserSelectable=0
