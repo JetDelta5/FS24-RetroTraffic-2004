@@ -1,0 +1,28 @@
+SUMMER 2004 AMERICA WEST RETROTRAFFIC B733
+REQUIRES FAIB BOEING 737-300L
+SKIP TO STEP 3 IF MODEL INSTALLED PRIOR
+FOLLOW INSTRUCTIONS IN PDF FOR FURTHER GUIDE
+
+1. OBTAIN faib-boeing-737-300l FROM AIG MANAGER
+ 
+MODEL: FAIB_Boeing_737CL_MSFS_V2.6.zip/SimObjects/Airplanes/faib-boeing-737-300l
+
+2. EXTRACT all files into RETROTRAFFIC_AIG_FAIB_B737-300_L
+
+3. READ texture sources from AWE-AmericaWest TXT files 
+
+4. SOURCE textures from available sites (AVSIM Library, RetroAI forums, Mikeys Retro Repaints, etc)
+
+5. CONVERT livery textures as directed by TXT files (FSX DXTbmp)
+
+6. READ livery config files from FLTSIM_CONFIGS TXT file
+
+7. NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+
+8. COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+
+Enjoy Summer 2004 America West RetroTraffic for the B733
+Free to delete setup folder when finished
+
+
+BY RETROTRAFFIC 2004 PROJECT V1.0

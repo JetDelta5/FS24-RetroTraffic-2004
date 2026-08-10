@@ -1,0 +1,127 @@
+WINTER 2003 AMERICA WEST RETROTRAFFIC B752
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 America West RetroTraffic for the B752
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC America West Airlines Boeing 757-200 RR"
+model="RR"
+texture="AWE-AmericaWest"
+description="RETROTRAFFIC FAIB 757-200"
+ui_manufacturer="Boeing"
+ui_type ="757-200"
+ui_variation="America West B752 RR"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="CACTUS"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AWE"
+icao_airline="AWE"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC America West Airlines Arizona Colors Boeing 757-200 RR"
+model="RR"
+texture="AWE-AmericaWest-Arizona"
+description="RETROTRAFFIC FAIB 757-200"
+ui_manufacturer="Boeing"
+ui_type ="757-200"
+ui_variation="America West Arizona Colors B752 RR"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="CACTUS"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AWE"
+icao_airline="AWE"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+2]
+title="RETROTRAFFIC America West Airlines Teamwork Coast Boeing 757-200 RR"
+model="RR"
+texture="AWE-AmericaWest-Teamwork"
+description="RETROTRAFFIC FAIB 757-200"
+ui_manufacturer="Boeing"
+ui_type ="757-200"
+ui_variation="America West Teamwork Coast B752 RR"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="CACTUS"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AWE"
+icao_airline="AWE"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+3]
+title="RETROTRAFFIC America West Airlines Arizona Diamondbacks Boeing 757-200 RR"
+model="RR"
+texture="AWE-AmericaWest-Diamond"
+description="RETROTRAFFIC FAIB 757-200"
+ui_manufacturer="Boeing"
+ui_type ="757-200"
+ui_variation="America West Arizona Diamondbacks B752 RR"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="CACTUS"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AWE"
+icao_airline="AWE"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+4]
+title="RETROTRAFFIC America West Airlines Ohio Colors Boeing 757-200 RR"
+model="RR"
+texture="AWE-AmericaWest-Ohio"
+description="RETROTRAFFIC FAIB 757-200"
+ui_manufacturer="Boeing"
+ui_type ="757-200"
+ui_variation="America West Ohio Colors B752 RR"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="CACTUS"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AWE"
+icao_airline="AWE"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+5]
+title="RETROTRAFFIC America West Airlines Phoenix Suns Boeing 757-200 RR"
+model="RR"
+texture="AWE-AmericaWest-Phoenix"
+description="RETROTRAFFIC FAIB 757-200"
+ui_manufacturer="Boeing"
+ui_type ="757-200"
+ui_variation="America West Phoenix Suns B752 RR"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="CACTUS"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AWE"
+icao_airline="AWE"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+6]
+title="RETROTRAFFIC America West Airlines Arizona Cardinals Boeing 757-200 RR"
+model="RR"
+texture="AWE-AmericaWest-Cardinals"
+description="RETROTRAFFIC FAIB 757-200"
+ui_manufacturer="Boeing"
+ui_type ="757-200"
+ui_variation="America West Arizona Cardinals B752 RR"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="CACTUS"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="AWE"
+icao_airline="AWE"
+isAirTraffic=1
+isUserSelectable=0
