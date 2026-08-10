@@ -1,0 +1,26 @@
+WINTER 2003 NORTHWEST AIRLINES RETROTRAFFIC DC91
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Northwest Airlines RetroTraffic for the DC91
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Northwest Airlines Bowling Shoe McDonnell Douglas DC-9-10"
+model=""
+texture="NWA-NorthwestAirlines-Bowling"
+description="RETROTRAFFIC AIG DC-9-10"
+ui_manufacturer="Douglas"
+ui_type ="DC-9-10"
+ui_variation="Northwest Airlines Bowling Shoe DC91"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="NORTHWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="NWA"
+icao_airline="NWA"
+isAirTraffic=1
+isUserSelectable=0
+

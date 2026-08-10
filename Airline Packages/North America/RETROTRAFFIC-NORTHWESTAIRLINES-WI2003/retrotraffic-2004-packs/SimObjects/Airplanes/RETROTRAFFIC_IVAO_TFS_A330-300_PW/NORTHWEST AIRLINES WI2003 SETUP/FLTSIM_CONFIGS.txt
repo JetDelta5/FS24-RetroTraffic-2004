@@ -1,0 +1,26 @@
+WINTER 2003 NORTHWEST AIRLINES RETROTRAFFIC A333
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Northwest Airlines RetroTraffic for the A333
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Northwest Airlines Airbus Silver Compass A330-300 PW"
+model=""
+texture="NWA-NorthwestAirlines-Compass"
+description="RETROTRAFFIC FAIB A330-300"
+ui_manufacturer="Airbus"
+ui_type ="A330-300"
+ui_variation="Northwest Airlines Silver Compass A333 PW"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="NORTHWEST"
+atc_heavy=1
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="NWA"
+icao_airline="NWA"
+isAirTraffic=1
+isUserSelectable=0

@@ -1,0 +1,81 @@
+WINTER 2003 NORTHWEST AIRLINES RETROTRAFFIC DC93
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Northwest Airlines RetroTraffic for the DC93
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Northwest Airlines Silver Compass McDonnell Douglas DC-9-30"
+model=""
+texture="NWA-NorthwestAirlines-Compass"
+description="RETROTRAFFIC AIG DC-9-30"
+ui_manufacturer="Douglas"
+ui_type ="DC-9-30"
+ui_variation="Northwest Airlines Silver Compass DC93"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="NORTHWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="NWA"
+icao_airline="NWA"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC Northwest Airlines Bowling Shoe McDonnell Douglas DC-9-30"
+model=""
+texture="NWA-NorthwestAirlines-Bowling"
+description="RETROTRAFFIC AIG DC-9-30"
+ui_manufacturer="Douglas"
+ui_type ="DC-9-30"
+ui_variation="Northwest Airlines Bowling Shoe DC93"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="NORTHWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="NWA"
+icao_airline="NWA"
+isAirTraffic=1
+isUserSelectable=0
+
+
+=========================================================================================
+RECOMMENDED SUBSTITUTES BELOW 
+RETROTRAFFIC_SUB_TBD_DC-9-50 FOR RETROTRAFFIC_AIG_AIG_DC-9-30 (no model)
+
+[fltsim.X+2]
+title="RETROTRAFFIC Northwest Airlines Silver Compass McDonnell Douglas DC-9-50"
+model=""
+texture="NWA-NorthwestAirlines-Compass"
+description="RETROTRAFFIC AIG DC-9-30 SUBSTITUTE"
+ui_manufacturer="Douglas"
+ui_type ="DC-9-50"
+ui_variation="Northwest Airlines Silver Compass DC95"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="NORTHWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="NWA"
+icao_airline="NWA"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+3]
+title="RETROTRAFFIC Northwest Airlines Bowling Shoe McDonnell Douglas DC-9-50"
+model=""
+texture="NWA-NorthwestAirlines-Bowling"
+description="RETROTRAFFIC AIG DC-9-30 SUBSTITUTE"
+ui_manufacturer="Douglas"
+ui_type ="DC-9-50"
+ui_variation="Northwest Airlines Bowling Shoe DC95 SUBSTITUTE"
+ui_typerole="Commercial Airliner"
+ui_createdby="Alpha India Group"
+atc_airline="NORTHWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="NWA"
+icao_airline="NWA"
+isAirTraffic=1
+isUserSelectable=0
