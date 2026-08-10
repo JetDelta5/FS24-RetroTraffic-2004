@@ -1,0 +1,61 @@
+WINTER 2003 NORTHWEST AIRLINK RETROTRAFFIC CRJ2
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Northwest Airlink RetroTraffic for the CRJ2
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Northwest Airlink Silver Compass opb Pinnacle Airlines Bombardier CRJ-200"
+model=""
+texture="NWAX-NorthwestAirlink-Compass-FLG"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="Northwest Airlink Silver Compass Pinnacle Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="FLAGSHIP"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="NWAX,FLG"
+icao_airline="FLG"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC Northwest Airlink Bowling Shoe opb Pinnacle Airlines Bombardier CRJ-200"
+model=""
+texture="NWAX-NorthwestAirlink-Bowling-FLG"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="Northwest Airlink Bowling Shoe Pinnacle Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="FLAGSHIP"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="NWAX,FLG"
+icao_airline="FLG"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+2]
+title="RETROTRAFFIC Northwest Airlink Memphis Belle opb Pinnacle Airlines Bombardier CRJ-200"
+model=""
+texture="NWAX-NorthwestAirlink-Memphis-FLG"
+description="RETROTRAFFIC RFSL CRJ-200"
+ui_manufacturer="Bombardier"
+ui_type ="CRJ-200"
+ui_variation="Northwest Airlink Memphis Belle Pinnacle Airlines CRJ2"
+ui_typerole="Commercial Airliner"
+ui_createdby="Raven FS Labs"
+atc_airline="FLAGSHIP"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="NWAX,FLG"
+icao_airline="FLG"
+isAirTraffic=1
+isUserSelectable=0
+
+

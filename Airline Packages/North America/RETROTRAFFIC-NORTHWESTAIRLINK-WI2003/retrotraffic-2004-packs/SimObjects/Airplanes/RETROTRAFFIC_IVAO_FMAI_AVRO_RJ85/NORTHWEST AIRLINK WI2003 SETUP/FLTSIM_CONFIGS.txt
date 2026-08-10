@@ -1,0 +1,42 @@
+WINTER 2003 NORTHWEST AIRLINK RETROTRAFFIC RJ85
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Northwest Airlink RetroTraffic for the RJ85
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Northwest Airlink Silver Compass opb Mesaba Airlines Avro RJ85"
+model=""
+texture="NWAX-NorthwestAirlink-Compass-MES"
+description="RETROTRAFFIC FMAI AVRI RJ-85"
+ui_manufacturer="Avro"
+ui_type ="RJ-85"
+ui_variation="Northwest Airlink Silver Compass Mesaba Airlines RJ85"
+ui_typerole="Commercial Airliner"
+ui_createdby="Fernando Martinez AI"
+atc_airline="MESABA"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="NWAX,MES"
+icao_airline="MES"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC Northwest Airlink Bowling Shoe opb Mesaba Airlines Avro RJ85"
+model=""
+texture="NWAX-NorthwestAirlink-Bowling-MES"
+description="RETROTRAFFIC FMAI AVRI RJ-85"
+ui_manufacturer="Avro"
+ui_type ="RJ-85"
+ui_variation="Northwest Airlink Bowling Shoe Mesaba Airlines RJ85"
+ui_typerole="Commercial Airliner"
+ui_createdby="Fernando Martinez AI"
+atc_airline="MESABA"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="NWAX,MES"
+icao_airline="MES"
+isAirTraffic=1
+isUserSelectable=0
