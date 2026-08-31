@@ -1,0 +1,43 @@
+WINTER 2003 SOUTHWEST AIRLINES RETROTRAFFIC B732
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Southwest Airlines RetroTraffic for the B732
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="Southwest Airlines Canyon Blue Boeing 737-200"
+model="normal"
+texture="SWA-SouthwestAirlines-Blue"
+description="RETROTRAFFIC FAIB 737-200"
+ui_manufacturer="Boeing"
+ui_type ="737-200"
+ui_variation="Southwest Airlines Canyon Blue B732"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="SOUTHWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="SWA"
+icao_airline="SWA"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="Southwest Airlines Desert Gold Boeing 737-200"
+model="normal"
+texture="SWA-SouthwestAirlines-Gold"
+description="RETROTRAFFIC FAIB 737-200"
+ui_manufacturer="Boeing"
+ui_type ="737-200"
+ui_variation="Southwest Airlines Desert Gold B732"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="SOUTHWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="SWA"
+icao_airline="SWA"
+isAirTraffic=1
+isUserSelectable=0
+

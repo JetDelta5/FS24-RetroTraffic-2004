@@ -1,0 +1,76 @@
+WINTER 2003 SOUTHWEST AIRLINES RETROTRAFFIC B735
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Winter 2003 Southwest Airlines RetroTraffic for the B735
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="Southwest Airlines Canyon Blue Boeing 737-500"
+model="normal"
+texture="SWA-SouthwestAirlines-Blue"
+description="RETROTRAFFIC FAIB 737-500"
+ui_manufacturer="Boeing"
+ui_type ="737-500"
+ui_variation="Southwest Airlines Canyon Blue B735"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="SOUTHWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="SWA"
+icao_airline="SWA"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="Southwest Airlines Desert Gold Boeing 737-500"
+model="normal"
+texture="SWA-SouthwestAirlines-Gold"
+description="RETROTRAFFIC FAIB 737-500"
+ui_manufacturer="Boeing"
+ui_type ="737-500"
+ui_variation="Southwest Airlines Desert Gold B735"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="SOUTHWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="SWA"
+icao_airline="SWA"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+2]
+title="Southwest Airlines Shamu Two Boeing 737-500"
+model="normal"
+texture="SWA-SouthwestAirlines-ShamuTwo"
+description="RETROTRAFFIC FAIB 737-500"
+ui_manufacturer="Boeing"
+ui_type ="737-500"
+ui_variation="Southwest Airlines Shamu Two B735"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="SOUTHWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="SWA"
+icao_airline="SWA"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+3]
+title="Southwest Airlines Shamu Three Boeing 737-500"
+model="normal"
+texture="SWA-SouthwestAirlines-ShamuThree"
+description="RETROTRAFFIC FAIB 737-500"
+ui_manufacturer="Boeing"
+ui_type ="737-500"
+ui_variation="Southwest Airlines Shamu Two B735"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="SOUTHWEST"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="SWA"
+icao_airline="SWA"
+isAirTraffic=1
+isUserSelectable=0
