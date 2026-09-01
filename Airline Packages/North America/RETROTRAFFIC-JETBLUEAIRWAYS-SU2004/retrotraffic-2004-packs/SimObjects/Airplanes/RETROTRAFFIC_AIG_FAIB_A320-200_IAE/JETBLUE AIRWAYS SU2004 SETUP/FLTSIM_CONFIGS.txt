@@ -1,0 +1,110 @@
+SUMMER 2004 JETBLUE AIRWAYS RETROTRAFFIC A320
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Summer 2004 JetBlue Airways RetroTraffic for the A320
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC JetBlue Airways Harlequin Airbus A320-200 IAE"
+model="IAE"
+texture="JBU-JetBlueAirways-Harlequin"
+description="RETROTRAFFIC FAIB A320-200"
+ui_manufacturer="Airbus"
+ui_type ="A320-200"
+ui_variation="JetBlue Airways Harlequin A320 IAE"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="JETBLUE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="JBU"
+icao_airline="JBU"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+1]
+title="RETROTRAFFIC JetBlue Airways Dots Airbus A320-200 IAE"
+model="IAE"
+texture="JBU-JetBlueAirways-Dots"
+description="RETROTRAFFIC FAIB A320-200"
+ui_manufacturer="Airbus"
+ui_type ="A320-200"
+ui_variation="JetBlue Airways Dots A320 IAE"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="JETBLUE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="JBU"
+icao_airline="JBU"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+2]
+title="RETROTRAFFIC JetBlue Airways Stripes Airbus A320-200 IAE"
+model="IAE"
+texture="JBU-JetBlueAirways-Stripes"
+description="RETROTRAFFIC FAIB A320-200"
+ui_manufacturer="Airbus"
+ui_type ="A320-200"
+ui_variation="JetBlue Airways Stripes A320 IAE"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="JETBLUE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="JBU"
+icao_airline="JBU"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+3]
+title="RETROTRAFFIC JetBlue Airways Windowpane Airbus A320-200 IAE"
+model="IAE"
+texture="JBU-JetBlueAirways-Windowpane"
+description="RETROTRAFFIC FAIB A320-200"
+ui_manufacturer="Airbus"
+ui_type ="A320-200"
+ui_variation="JetBlue Airways Windowpane A320 IAE"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="JETBLUE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="JBU"
+icao_airline="JBU"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+4]
+title="RETROTRAFFIC JetBlue Airways Bubbles Airbus A320-200 IAE"
+model="IAE"
+texture="JBU-JetBlueAirways-Bubbles"
+description="RETROTRAFFIC FAIB A320-200"
+ui_manufacturer="Airbus"
+ui_type ="A320-200"
+ui_variation="JetBlue Airways Bubbles A320 IAE"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="JETBLUE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="JBU"
+icao_airline="JBU"
+isAirTraffic=1
+isUserSelectable=0
+
+[fltsim.X+5]
+title="RETROTRAFFIC JetBlue Airways Tartan Airbus A320-200 IAE"
+model="IAE"
+texture="JBU-JetBlueAirways-Tartan"
+description="RETROTRAFFIC FAIB A320-200"
+ui_manufacturer="Airbus"
+ui_type ="A320-200"
+ui_variation="JetBlue Airways Tartan A320 IAE"
+ui_typerole="Commercial Airliner"
+ui_createdby="FSX AI Bureau"
+atc_airline="JETBLUE"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="JBU"
+icao_airline="JBU"
+isAirTraffic=1
+isUserSelectable=0
