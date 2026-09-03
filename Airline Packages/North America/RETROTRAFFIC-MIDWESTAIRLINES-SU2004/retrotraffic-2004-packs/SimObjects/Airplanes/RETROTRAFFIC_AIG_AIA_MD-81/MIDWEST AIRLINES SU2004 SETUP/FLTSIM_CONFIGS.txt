@@ -1,0 +1,25 @@
+SUMMER 2004 MIDWEST AIRLINES RETROTRAFFIC MD-81
+NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+PLEASE DO NOT CHANGE AIRCRAFT TITLE TO ENSURE COMPATIBILITY WITH SCHEDULE FILE
+Enjoy Summer 2004 Midwest Airlines RetroTraffic for the MD-81
+Free to delete setup folder when finished
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
+
+[fltsim.X]
+title="RETROTRAFFIC Midwest Airlines McDonnell Douglas MD-81"
+model="Cone"
+texture="MEP-MidwestAirlines"
+description="RETROTRAFFIC AIA MD-81 CONE"
+ui_manufacturer="McDonnell Douglas"
+ui_type ="MD-81"
+ui_variation="Midwest Airlines MD-81"
+ui_typerole="Commercial Airliner"
+ui_createdby="AI Aardvark"
+atc_airline="MIDEX"
+atc_parking_types="GATE,RAMP"
+atc_parking_codes="MEP"
+icao_airline="MEP"
+isAirTraffic=1
+isUserSelectable=0

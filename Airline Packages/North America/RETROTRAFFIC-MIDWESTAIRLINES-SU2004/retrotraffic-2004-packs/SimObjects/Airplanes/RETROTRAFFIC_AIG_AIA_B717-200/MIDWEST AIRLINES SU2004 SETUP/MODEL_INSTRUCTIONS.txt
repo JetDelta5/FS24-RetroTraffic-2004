@@ -1,0 +1,28 @@
+SUMMER 2004 MIDWEST AIRLINES RETROTRAFFIC B712
+REQUIRES AIA BOEING 717-200
+SKIP TO STEP 3 IF MODEL INSTALLED PRIOR
+FOLLOW INSTRUCTIONS IN PDF FOR FURTHER GUIDE
+
+1. OBTAIN aia-boeing-717-200 FROM AIG MANAGER
+ 
+MODEL: AIA_Boeing_B717-200_MSFS_V1.9.zip/SimObjects/Airplanes/aia-boeing-717-200
+
+2. EXTRACT all files into RETROTRAFFIC_AIG_AIA_B717-200
+
+3. READ texture sources from MEP-MidwestAirlines TXT files 
+
+4. SOURCE textures from available sites (AVSIM Library, RetroAI forums, Mikeys Retro Repaints, etc)
+
+5. CONVERT livery textures as directed by TXT files (FSX DXTbmp)
+
+6. READ livery config files from FLTSIM_CONFIGS TXT file
+
+7. NUMBER livery FLTSIM.XX configs accordingly (follow PDF for further)
+
+8. COPY and PASTE all FLTSIM.XX configs into aircraft.CFG
+
+Enjoy Summer 2004 Midwest Airlines RetroTraffic for the B712
+Free to delete setup folder when finished
+
+
+BY RETROTRAFFIC 2004 PROJECT V1.0
